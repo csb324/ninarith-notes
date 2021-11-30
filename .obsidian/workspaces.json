@@ -1,0 +1,177 @@
+{
+  "workspaces": {
+    "Session Log": {
+      "main": {
+        "id": "a3f2d48d1dd904d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "a27a17a60ee1bec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Log.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "bcdd25379aeeec23",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3eff8836262b10f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4bdcf26dce1dc7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8bb6cdc6aca16e46",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#location/city/tinzelven",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 308
+      },
+      "right": {
+        "id": "ebdea276470bfe34",
+        "type": "split",
+        "children": [
+          {
+            "id": "7159ed136d8a13ac",
+            "type": "tabs",
+            "dimension": 62.109375,
+            "children": [
+              {
+                "id": "c04aea16790cc58c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Sessions/Session Log.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "095a5befb4c672de",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8a729692ba722ec3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Sessions/Session Log.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9a9f3e467b95e15d",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cb3e892d2ed503dc",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                }
+              },
+              {
+                "id": "541cb50b9c660c1d",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                }
+              },
+              {
+                "id": "79d3bdfec3fa00e5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Sessions/Session Log.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "88504b5f00d7b229",
+            "type": "tabs",
+            "dimension": 37.890625,
+            "children": [
+              {
+                "id": "3813da65895a1b54",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {}
+                }
+              },
+              {
+                "id": "80b9061451a1a501",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 453
+      },
+      "active": "a27a17a60ee1bec5"
+    }
+  },
+  "active": "Session Log"
+}
