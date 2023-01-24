@@ -21,6 +21,11 @@ jobs:
       - name: Install npm dependencies
         run: npm install
         working-directory: main
+        
+      - name: Tell git who i am I guess
+        run: |
+          git config user.name "$(git log -n 1 --pretty=format:%an)"
+          git config user.email "$(git log -n 1 --pretty=format:%ae)"
       
       - name: Commit new content to website repo
         run: npm run deploy
