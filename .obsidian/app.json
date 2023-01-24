@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Files",
+  "foldHeading": false,
+  "defaultViewMode": "source",
+  "fileSortOrder": "byCreatedTime",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
+}

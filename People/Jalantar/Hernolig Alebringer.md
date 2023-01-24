@@ -1,0 +1,22 @@
+---
+type: npc
+tags: 
+- npc
+---
+
+# Hernolig Alebringer
+[Status::alive]
+[Race::dwarf]
+[Relationship::neutral]
+[Affiliation:: [[TrueSilver]]]
+[Location:: [[Dragonsfire Forge]]]
+[Pronouns:: he/his]
+
+Large potbellied dwarven man in a long white tunic
+
+Convert at the temple, recently started worshipping [[TrueSilver]] as well.
+
+### Who're they to us? 
+Has been friendly to [[Hugh]], seems to have been partially converted by him, starting a proposal for how to expand the practice in [[Jalantar]]
+
+[[Noralin Brickview]] - small and petite dwarven woman with very light stubble

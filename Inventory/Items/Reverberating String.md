@@ -1,0 +1,18 @@
+---
+type: item
+tags:
+- item
+---
+
+# Reverberating String
+
+[Owned by::[[The Unforged Few]]]
+[Carried by::[[Adrienne Spout|Adrienne]]]
+[Origin::[[Jenson Davour]]]
+[Attunement:: No]
+
+Item, thin metal string that can be added to any stringed instrument. 
+
+When you cast a spell that deals damage using an instrument with a reverberating string as an arcane focus, you can expend one of its charges to deal an additional 2d8 force damage. Once all charges have been expended from the string, it snaps.
+
+**Charges: 2** 

@@ -1,0 +1,19 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "People/Arkhosian Politics/dwarf who seems to like us.md",
+    "adrienne's opinions of things/adriennes-opinions-4.md"
+  ],
+  "_hiddenTags": [],
+  "sortDirection": "old->new",
+  "ignoreFiles": "Template"
+}
