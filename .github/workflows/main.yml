@@ -7,13 +7,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          path: main
+          path: Ninareth
 
       - name: Checkout website repo
         uses: actions/checkout@v3
         with:
           repository: csb324/eleventy-obsidian-ninareth
-          path: Ninareth
+          path: main
       
-      - name: tell me some facts i guess
-        run: ls -la
+      - name: Commit new content to website repo
+        run: npm run deploy
+        working-directory: main
