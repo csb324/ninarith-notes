@@ -26,6 +26,7 @@ jobs:
         run: |
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
+        working-directory: main
       
       - name: Commit new content to website repo
         run: npm run deploy
