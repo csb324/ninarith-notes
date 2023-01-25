@@ -1,8 +1,8 @@
 # Group Inventory
 
-### Currency - 2,558
+### Currency - 2,528
 91 PP
-1,556 GP
+1,526 GP
 1,112 SP 
 
 ## Potions:
@@ -133,6 +133,9 @@ carried by [[Rez]]
 [[Vlad Grosu Patch]]
 
 Vial of strange orange moss
+Carried by [[Hugh]]
+
+Lead Box
 Carried by [[Hugh]]
 
 Disguise kit
