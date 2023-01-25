@@ -30,6 +30,6 @@ jobs:
       
       - name: Commit new content to website repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.OBSIDIAN_PAT }}
         run: npm run deploy
         working-directory: main
