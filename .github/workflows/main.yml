@@ -25,10 +25,13 @@ jobs:
       - name: Commit new content to website repo
         env:
           GITHUB_TOKEN: ${{ secrets.OBSIDIAN_PAT }}
+          GIT_CMD_REPOSITORY="https://${{DESTINATION_REPOSITORY_USERNAME}}:${{API_TOKEN_GITHUB}}@${{GITHUB_SERVER}}/${{DESTINATION_REPOSITORY_USERNAME}}/${{DESTINATION_REPOSITORY_NAME}}.git"
         run: |
           git config -l | grep 'http\..*\.extraheader' | cut -d= -f1 | xargs -L1 git config --unset-all
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
-          npm run deploy
+          touch version.txt
+          git commit --allow-empty -m "arbitrary-commit"
+          git push
         working-directory: main
       
