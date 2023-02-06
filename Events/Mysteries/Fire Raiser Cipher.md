@@ -3,11 +3,15 @@ type: world-event
 ---
 
 # Fire Raiser Cipher
-[Status:: Unsolved]
+[Status:: Solved]
 [Affiliation:: [[Fire Raisers]]]
-[Source:: [[Khequii]]]
+[Source:: [[Khequi]]]
 
-## YD1BGC2B GCYY ECBG4 5DZZEY6 FAFA
+## Laughing Hill Eight Barrels 3434
+
+### Scratch Paper
+ 
+YD1BGC2B GCYY ECBG4 5DZZEY6 FAFA
 
 ee, ll, ss,  ff
 

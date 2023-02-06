@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities and Towns/Jalantar.md",
+                "file": "People/Arkhosia City/Dfana.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities and Towns/Jalantar.md",
+                "file": "People/Arkhosia City/Dfana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities and Towns/Jalantar.md",
+                "file": "People/Arkhosia City/Dfana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities and Towns/Jalantar.md"
+                "file": "People/Arkhosia City/Dfana.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "bf3372bce0c4cef7",
   "lastOpenFiles": [
-    "Session Notes/notes-57.md",
-    "Locations/Cities and Towns/Arkhosia (City).md",
-    "Locations/Arkhosia City/Districts/The Claw.md",
-    "Locations/Cities and Towns/Antaourth.md",
-    "Locations/Halls of the Dead.md",
-    "Locations/Arkhosia City/Chapel of the Lost.md",
-    "Locations/Arkhosia City/Districts/Sciorca's Clutch.md",
-    "Locations/Arkhosia City/Districts/Oceantouched.md",
-    "Locations/Arkhosia City/Districts/Driftrock.md",
-    "Locations/Arkhosia City/Districts/Gilded Way.md"
+    "People/Arkhosia City/Khequi.md",
+    "People/Arkhosia City/Willum.md",
+    "People/Arkhosia City/Cut.md",
+    "People/Arkhosia City/Hennurra.md",
+    "Inventory/The Thrice Broken Trocaire.md",
+    "Inventory/Tastail Tine.md",
+    "Inventory/Items/The Unnatural Naturality.md",
+    "Inventory/Items/Cube of Force.md",
+    "Events/Fire Raiser Attack in Arkhosia City.md",
+    "Events/Mysteries/Freya's Mysterious Circles.md"
   ]
 }
