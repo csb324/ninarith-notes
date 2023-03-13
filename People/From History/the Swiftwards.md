@@ -12,3 +12,5 @@ tags:
 [Home::[[Eberron]]]
 
 We don't know anything about this brother and sister I MEAN THIS WHAT i mean never mind.
+
+[[Amelia Swiftward]] is rumored to be a practicioner of [[Blood Magic]].

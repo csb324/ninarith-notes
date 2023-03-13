@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4815709057537294",
+        "id": "5d0404a1ccb38882",
         "type": "tabs",
         "children": [
           {
-            "id": "f4be76078142bd4c",
+            "id": "d3ba9d3e56319543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Vorhmen.md",
+                "file": "Session Recaps/session-63.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf3372bce0c4cef7",
+            "id": "53192429759f6c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Arkhosia City/Dfana.md",
+                "file": "Session Notes/notes-53.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Arkhosia City/Dfana.md",
+                "file": "Session Notes/notes-53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "notes",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Arkhosia City/Dfana.md",
+                "file": "Session Notes/notes-53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Arkhosia City/Dfana.md"
+                "file": "Session Notes/notes-53.md"
               }
             }
           },
@@ -176,17 +176,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bf3372bce0c4cef7",
+  "active": "53192429759f6c57",
   "lastOpenFiles": [
-    "People/Arkhosia City/Khequi.md",
-    "People/Arkhosia City/Willum.md",
-    "People/Arkhosia City/Cut.md",
-    "People/Arkhosia City/Hennurra.md",
-    "Inventory/The Thrice Broken Trocaire.md",
-    "Inventory/Tastail Tine.md",
-    "Inventory/Items/The Unnatural Naturality.md",
+    "Inventory/Items/Reverberating String.md",
+    "Session Notes/notes-53.md",
+    "Events/Mysteries/Our Fiend Samuel.md",
+    "To-Do List.md",
+    "2022-11-05.md",
     "Inventory/Items/Cube of Force.md",
-    "Events/Fire Raiser Attack in Arkhosia City.md",
-    "Events/Mysteries/Freya's Mysterious Circles.md"
+    "Inventory/Items/Lightning Javelin.md",
+    "Inventory/Items/Deck of Illusions.md",
+    "Inventory/Items/Skeleton Key.md",
+    "Inventory/Items/Nourishing Loafs.md"
   ]
 }

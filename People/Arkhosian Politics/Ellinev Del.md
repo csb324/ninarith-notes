@@ -10,6 +10,7 @@ tags:
 [Home::[[Jalantar]]]
 [Affiliation::[[The Providers]]]
 [Affiliation::[[Arkhosian Delegates]]]
+[Affiliation:: [[Terrorist Activity Investigation  Committee]]] 
 [Pronouns::she/her]
 [Location::[[Gorva's Observatory]]]
 

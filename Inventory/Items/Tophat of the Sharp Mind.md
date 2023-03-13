@@ -17,5 +17,19 @@ Sends a jolt to the wearer to refocus their mind. The item has 4 charges. When t
 
 The item regains 1d4 expended charges daily at dawn.
 
+# or is it... ? 
 
+#helpmechelsea 
 
+# Hat of Concentration
+
+[Owned by::[[The Unforged Few]]]
+[Carried by::[[Hugh]]]
+[Origin::[[Neiragneg]]]
+[Attunement:: yes]
+
+Item, tophat 
+
+While attuned, wearer has advantage on constitution saving throws to maintain concentration on a spell.
+
+Three uses per day, recharges all of them at dawn
