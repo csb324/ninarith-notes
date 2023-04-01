@@ -1,8 +1,8 @@
 # Group Inventory
 
-### Currency - 5,131
+### Currency - 8,836
 130 PP
-3,831 GP
+7,536 GP
 
 ## Potions:
 

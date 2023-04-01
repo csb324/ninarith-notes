@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2d7e4fb480d4eee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,11 +182,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "53192429759f6c57",
+  "active": "f2d7e4fb480d4eee",
   "lastOpenFiles": [
     "Inventory/Items/Reverberating String.md",
     "Session Notes/notes-53.md",
