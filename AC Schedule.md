@@ -8,11 +8,7 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### What do we have to do?
-* 21 -  [[Death Halls Heist]] prep, report to [[Ellinev Del]]
-* 22 - [[Death Halls Heist]]? 
-* 23 - [[Julian Slater-Runehorn|Julian]] next task, [[Giary]] breaking into the [[Admirials Office]], [[Ellinev Del]] check in
-* 24 - 
-* 25 - mirror delivery due 
+* 25 - mirror delivery due, [[Julian Slater-Runehorn|Julian]] next task and report, check in with [[Terrav]], lunch with [[Giary]]
 * 26 - 
 * 27 - 
 * 28 - [[Ichlior]] and [[Willen Guruden]] fundraiser
