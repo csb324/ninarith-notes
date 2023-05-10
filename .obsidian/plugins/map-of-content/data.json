@@ -5,10 +5,11 @@
     "adrienne's opinions of things/"
   ],
   "exluded_filename_components": [],
-  "settings_version": "0.1.14",
-  "plugin_version": "0.1.14",
-  "do_show_update_notice": false,
+  "settings_version": "0.1.16",
+  "plugin_version": "0.1.18",
+  "do_show_update_notice": true,
   "auto_update_on_file_change": true,
   "do_remember_expanded": false,
+  "MOC_path_starts_at_CN": false,
   "file_descendants_expanded": {}
 }

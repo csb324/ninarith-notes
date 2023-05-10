@@ -13,6 +13,8 @@ tags:
 	* [[Terrav]] to tell us if they really believe they've solved the violence or this is a cover story
 * Report the [[Death Halls Heist]] for [[Julian Slater-Runehorn|Julian]]
 * Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
+* Talk to [[Ravona Drakness]] and see if we can protect the [[The Gaze Grafter]]
+* Hear back from [[First Officer Ghent]] on his strike on [[Dharbeed Tzaavi]]
 
 ### Short-Term
 * Meet up with folks in [[Arkhosia (City)]]
@@ -39,7 +41,6 @@ tags:
 	* [[Ghez Yhutl]] for his cliffhanger on [[Dragon Scales Ahhhh]]
 	* [[Professor Leonard Klipitz]] on working for diamonds to [[Resurrect Adrienne]]
 	* [[Rawley]] for [[Freya]] about firbolgs
-	* Someone [[Rez]] knows is dead to see if it's like when she sent to [[Rez's Dad]]
 	* [[Father Thronestone]] for update on the [[Dragon Scales Ahhhh]] codebreaking
 * Check back in with [[Ravona Drakness]] at the [[Halls of the Dead]] in a few weeks
 

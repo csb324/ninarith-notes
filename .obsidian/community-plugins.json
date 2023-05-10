@@ -1,6 +1,7 @@
 [
+  "breadcrumbs",
   "customjs",
   "dataview",
   "templater-obsidian",
-  "breadcrumbs"
+  "tag-wrangler"
 ]
