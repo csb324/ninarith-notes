@@ -9,7 +9,7 @@ tags:
 # Mirror of Life Trapping
 
 [Owned by::[[The Unforged Few]]]
-[Carried by::[[Freya]]
+[Carried by::[[Julian Slater-Runehorn]]]
 [Origin:: [[Halls of the Dead]]
 [Status:: Active]
 

@@ -11,6 +11,7 @@ tags:
 [Origin:: [[Burru Ilp]]
 [Status:: Active]
 [Attunement:: yes]
+[Save:: 15]
 
 Item, large staff with patches of blue dragonscales.
 
@@ -18,7 +19,9 @@ As an action, you can use this staff to produce a blue wymrlings breath weapon (
 
 Additionally, it functions as a +1 quarterstaff. When you hit a creature with a melee attack using a dragonstaff, you deal 1d6 additional lightning damage.
 
+
 ### Notes
 Won by killing [[Burru Ilp]] in [[Session-38]]
 
 Used once in [[notes-65]]
+Used twice in [[notes-78]], recharged

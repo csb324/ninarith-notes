@@ -8,9 +8,9 @@ tags:
 # The Gaze Grafter
 
 [Owned by::[[The Unforged Few]]]
-[Carried by::[[Freya]]]
+[Carried by::[unknown]
 [Origin:: [[Halls of the Dead]]]
-[Status:: Active]
+[Status:: Unknown]
 
  A small handheld mirror.
  

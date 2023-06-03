@@ -13,3 +13,5 @@ tags:
 Item, Attunement
 
 A cloak that grants advantage on stealth checks. 
+
+Perception checks to see you have disadvantage. 

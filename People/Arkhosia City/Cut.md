@@ -5,7 +5,7 @@ tags:
 ---
 
 # Cut
-[Status::alive]
+[Status::dead]
 [Race::tiefling]
 [Relationship::neutral]
 [Affiliation:: [[Fire Raisers]]]

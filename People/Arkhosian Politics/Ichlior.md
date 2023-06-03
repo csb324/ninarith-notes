@@ -4,7 +4,7 @@ tags:
 - npc
 ---
 
-# Circler Ichlior
+# Circler Monte Ichlior
 [Status::alive]
 [Relationship::neutral]
 [Race::]
