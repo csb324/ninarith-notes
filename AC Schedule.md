@@ -8,7 +8,6 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### What do we have to do?
-* 30 -
 * 1 - [[Freya]] conversation with [[Naya]]
 * 2 -
 * 3 - 
