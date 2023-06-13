@@ -9,7 +9,7 @@ tags:
 [Relationship::neutral]
 [Race::]
 [Affiliation::[[The Circle]]]
-[Location::]
+[Location::[[Ichlior Estate]]]
 
 ### Background 
 Confiscated the former fishing village of [[Kazdi]] to turn it into a resort. Member of [[The Circle]]

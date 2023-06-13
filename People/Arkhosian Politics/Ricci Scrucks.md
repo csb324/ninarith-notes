@@ -5,12 +5,13 @@ tags:
 ---
 
 # Ricci Scrooks
-[Status::alive]
+[Status::dead]
 [Relationship::neutral]
 [Home::[[Jalantar]]]
 [Affiliation::[[The Guardians]]]
 [Affiliation::[[Arkhosian Delegates]]]
 [Affiliation::[[Dragon's Hide]]]
+[Affiliation::[[Fire Raisers]]]
 [Location::[[the Mayor of Jalantar Office]]]
 [Workplace: [[Central Administrative Cluster]]]
 
@@ -18,11 +19,13 @@ Blue dragonborn in fine hidesman armor, has a pendant to bahamant around his nec
 
 Head of the [[Dragon's Hide]] , [[The Guardians]] delegate. 
 
-Has been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. But has led authorities to think the [[Zalevi Embassy Break-in]] bombing was unrelated. 
+Had been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. But, led authorities to think the [[Zalevi Embassy Break-in]] bombing was unrelated.
 
-He has a cousin, Lev Scrooks who is a [[The Providers]] delegate. Their family is very connected.
+He has a cousin, [[Del Scrooks]] who is a [[The Providers]] delegate. Their family is very connected.
 
-Old friends with [[Relakas]]
+Old friends with [[Relakas]]. Or, was.
+
+Original co-founder (with [[Victor]]) of the [[Fire Raisers]]. They served together in the [[4th Regiment]], and wanted to make Arkhosia a better place. Assassinated in the [[Election Day Attack]].
 
 ### Who're they to us? 
 Introduced themselves to [[The Unforged Few]] at the [[Bellisme Show]]. Offered us work as consultants for the [[Dragon's Hide]] 

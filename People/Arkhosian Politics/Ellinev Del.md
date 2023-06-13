@@ -5,7 +5,7 @@ tags:
 ---
 
 # Ellinev Del
-[Status::alive]
+[Status::dead]
 [Relationship::neutral]
 [Home::[[Jalantar]]]
 [Affiliation::[[The Providers]]]
@@ -20,7 +20,9 @@ Has been vocally leading the response to the recent [[Jalantar]] [[The Providers
 
 Appears to be an artificer, says that all of her work is funded by and done on the behest of the [[Jalantar]] government. 
 
-Knows about warforged, and seemed to guess the [[Hugh]] had memory problems when he mentioned that he was from [[Eberron]]. Said she's worked on reverse engineering experiments in the past. Says most warforged are only used as tools of violence, and that when their purpose is served they are often coming to consciousness (seen as a bad thing). Says fixing his memory would need to be done by an eberronian master artificer. Warns us to be careful on how we expose Hugh to [[Holy Maker Stormswallow]]
+Knows about warforged, and seemed to guess the [[Hugh]] had memory problems when he mentioned that he was from [[Eberron]]. Said she's worked on reverse engineering experiments in the past. Says most warforged are only used as tools of violence, and that when their purpose is served they are often coming to consciousness (seen as a bad thing). Says fixing his memory would need to be done by an eberronian master artificer. Warns us to be careful on how we expose Hugh to [[Holy Maker Stormswallow]].
+
+Assassinated in the [[Election Day Attack]]. [[Jade]] has as many of her notebooks as she could find.
 
 ### Background
 Served with [[Victor]] for some time in the [[Arkhosian Military]].  

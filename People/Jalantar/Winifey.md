@@ -7,9 +7,9 @@ aliases:
 ---
 
 # Winifey A.K.A. "Winnie"
-[Status::alive]
+[Status::dead]
 [Race::Human]
-[Relationship::neutral]
+[Relationship::enemy]
 [Affiliation:: [[Fire Raisers]]]
 [Location:: [[The Furnace]]]
 
@@ -17,7 +17,11 @@ Very lanky human woman, with poorly cut shaggy brown hair. Wears a steel breastp
 
 Very close with [[Cinder]]. Sort of his right hand. 
 
-Associate of [[Niko]], part of the [[Fire Raisers]]
+Associate of [[Niko]], part of the [[Fire Raisers]].
+
+Has [[Freya's Mysterious Circles]] tattooed on her body. Gave [[Willum]] some sort of time-reversing item that he used in our confrontation in the [[Election Day Attack]]. 
+
+Killed [[Srictha]].
 
 ### Who're they to us?
 At the [[Bellisme Show]] -- they asked us to help her get past a couple of guards to eavesdrop on a meeting. We made her invisible and helped her sneak through. 
