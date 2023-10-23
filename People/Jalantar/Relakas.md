@@ -4,7 +4,7 @@ tags:
 - npc
 ---
 
-# Relakas Freed
+# Relakas Freid
 [Status::alive]
 [Race::Dragonborn]
 [Relationship::neutral]

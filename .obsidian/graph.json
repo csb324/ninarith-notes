@@ -1,51 +1,22 @@
 {
   "collapse-filter": true,
-  "search": "-path:Templates",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#npc",
-      "color": {
-        "a": 1,
-        "rgb": 14735186
-      }
-    },
-    {
-      "query": "tag:#location",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:People/PCs",
-      "color": {
-        "a": 1,
-        "rgb": 4608226
-      }
-    },
-    {
-      "query": "path:\"Groups and Organizations\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
-  "collapse-display": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.143516292735043,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 15.5444587628866,
-  "linkStrength": 0.954333118556701,
-  "linkDistance": 30,
-  "scale": 0.12093359742056517,
-  "close": true
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.1141859279927413,
+  "close": false
 }

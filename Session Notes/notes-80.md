@@ -1,7 +1,9 @@
 ---
 type: detailed-notes
-up: [[Session Log]]
-prev: [[notes-79]]
+up:
+  - - Session Log
+prev:
+  - - notes-79
 ---
 
 # Detailed Notes: Session 80

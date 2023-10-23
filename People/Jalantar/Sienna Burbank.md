@@ -9,6 +9,7 @@ tags:
 [Race:: human]
 [Relationship::neutral]
 [Location:: [[Jalantar]]]
+[Home:: [[Burbank Compound]]]
 [Affiliation:: [[Julian Slater-Runehorn]]]
 
 Older woman, but looks good for her age. Small woman, dark skin and black hair, lithe in her movements. Always wears her knife.

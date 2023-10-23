@@ -8,22 +8,15 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### Immediate
-* Sending
-	* [[Professor Leonard Klipitz]] asked us to reach out 
-* Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
-* What happened to [[Winifey]] on [[Fire Raiser Attack in Arkhosia City]]
-	* [[Rhene Blackstone]]?
+* Make an appointment at the [[Duvey]] store
+* Make an appointment at [[Several's Antiquities]]
 * 
 
 ### Short-Term
-* Get as much money as we can
 
 
 ### Middle-Term
-* Attend the [[Arkhosian Elections]]
-* Check back in with [[Ravona Drakness]] at the [[Halls of the Dead]] in a few weeks
 * Look into the [[Ioun Stone]] / the rocks that the fighters are using to counterspell
-* Read the autobiography from [[Drimbias Shaziros]]
 
 
 ### Long-Term
@@ -38,7 +31,7 @@ tags:
 *  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
 * Talk to [[Yhridex]] or learn more about his involvement with [[Dragon Scales Ahhhh]]
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
-* Check in with [[Sienna Burbank]] about visiting [[Burbank Compoud]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
+* Check in with [[Sienna Burbank]] about visiting [[Burbank Compound]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
 	* talk to [[Victoria Several|Victoria]] about this?
 
 ### To Buy
@@ -46,3 +39,9 @@ tags:
 * potions
 * diamonds
 
+Chelsea:
+* make list of mithril items? 
+	* [[Mithril Needle]]
+	* the alloy (add page)
+	* fuses
+	* potion to cut the fuses?
