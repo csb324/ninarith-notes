@@ -4,23 +4,17 @@ tags:
 - npc
 ---
 
-# Pak
+# Rhynilex Svenik
 [Status::alive]
 [Race::kobold]
 [Relationship::neutral]
-[Home::[[Quaath]]
-[Class::rogue]
-[Affiliation:: [[The Silver Halves]]]
+[Home::[[Izdeke]]
+[Class::?]
+[Affiliation:: [[Lloth]]]
 
-Kobold, dark gray wrappings around their arms and over their head. Believes to be [[Pik]]’s twin
+"Greeted" us as we went through the portal to bring back Adrienne. Quite hostile at first. She doesn't seem nice, but she seems determined to accomplish some unknown goal, likely to do with the black roots.
 
 ### Background
 
 ### Who're They to Us?
-Friends with [[Vask]]
 
-### Party Members
-[[Victoria Several]]
-[[Magister]]
-[[Pik]]
-[[Vask]]
