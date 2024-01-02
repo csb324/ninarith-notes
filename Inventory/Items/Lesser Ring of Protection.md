@@ -4,7 +4,7 @@ tags:
 - item
 ---
 
-#  Ring of Protection
+#  Lesser Ring of Protection 
 
 [Owned by::[[Damien]]]
 [Origin:: Unknown]

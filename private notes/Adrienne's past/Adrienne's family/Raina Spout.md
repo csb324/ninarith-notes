@@ -10,7 +10,7 @@ tags:
 [Race::Elf]
 [Status::unknown]
 [Relationship::neutral]
-[Home::[[Ru'Nileth]]]
+[Home::[[Locations/Cities and Towns/Ru'Nileth]]]
 
 Mother to [[Adrienne Spout|Adrienne]]
 

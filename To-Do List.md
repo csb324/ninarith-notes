@@ -8,15 +8,14 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### Immediate
-* Make an appointment at the [[Duvey]] store
-* Make an appointment at [[Several's Antiquities]]
-* 
+* monster parts - yes tomorrow
+* duvey - yes tomorrow, sell items
+* go to the grove
 
 ### Short-Term
 
 
 ### Middle-Term
-* Look into the [[Ioun Stone]] / the rocks that the fighters are using to counterspell
 
 
 ### Long-Term

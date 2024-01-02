@@ -10,7 +10,7 @@ tags:
 [Status::unknown]
 [Race::Half-Elf]
 [Relationship::neutral]
-[Home::[[Ru'Nileth]]]
+[Home::[[Locations/Cities and Towns/Ru'Nileth]]]
 
 Brother to [[Adrienne Spout|Adrienne]]
 3rd of 4 siblings.

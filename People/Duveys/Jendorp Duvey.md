@@ -4,6 +4,7 @@ tags:
   - npc
 aliases:
   - J. Duvey
+  - Jeni
 ---
 
 # Jendorp Duvey

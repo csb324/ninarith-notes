@@ -4,7 +4,7 @@ tags:
 - npc
 ---
 
-# Cliff Burbank
+# Cliff Burbank (AKA Cliff)
 [Status::alive]
 [Race:: human]
 [Relationship::neutral]

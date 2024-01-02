@@ -1,7 +1,10 @@
 ---
 type: npc
-tags: 
-- npc
+tags:
+  - npc
+aliases:
+  - Rhyn
+  - Rhynilex
 ---
 
 # Rhynilex Svenik

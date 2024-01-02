@@ -1,7 +1,9 @@
 ---
 type: npc
-tags: 
-- npc
+tags:
+  - npc
+aliases:
+  - Davi
 ---
 
 # Willow

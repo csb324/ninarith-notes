@@ -1,9 +1,10 @@
 ---
 type: PC
 tags:
-- PC
+  - PC
 aliases:
-- Cost-ape
+  - Cost-ape
+  - Constantine
 ---
 
 # Costi Grosu

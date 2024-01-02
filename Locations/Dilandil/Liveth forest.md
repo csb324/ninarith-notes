@@ -6,9 +6,10 @@ tags:
 ---
 
 # Liveth forest
-Region, [Location::[[Dilandil]]]
+Region, [Location:: [[Dilandil]]]
 
 It's a forest! It's huge!
+
 
 ## NPCs
 ```dataviewjs

@@ -8,9 +8,9 @@ tags:
 [Status::alive]
 [Race::Human]
 [Relationship::neutral]
-[Home::[[Dharinov Region]]]
+[Home::[[Dharinov Duchy]]]
 
-Duchess of the [[Dharinov Region]]. Date of Suspected Undeath: 3437
+Duchess of the [[Dharinov Duchy]]. Date of Suspected Undeath: 3437
 
 ### Costi Research
 
