@@ -1,10 +1,13 @@
 ---
 type: npc
-tags: 
-- npc
+tags:
+  - npc
+aliases:
+  - Cliff
+  - Colonel Burbank
 ---
 
-# Cliff Burbank (AKA Cliff)
+# Cliff Burbank, the 4th (AKA Cliff)
 [Status::alive]
 [Race:: human]
 [Relationship::neutral]
