@@ -1,5 +1,6 @@
 ---
 type: world-event
+status: ended
 ---
 
 # Heal the Anchor Tree
