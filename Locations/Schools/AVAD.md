@@ -13,19 +13,14 @@ School, Deal 'Ras
 
 [Location::[[Deal 'Ras]]]
 
+![[AVAD invite.jpeg]]
+
 TL;DR
 
 ## NPCs
 
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p.Home )
-  .where(p => p.Home.path == dv.current().file.name)
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`))
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```
 
 

@@ -4,15 +4,18 @@ tags:
 - orgs/zumbinis
 ---
 
-[Based in::[[Ninareth]]]
+# The Zumbinis
+[Based in::[[Ninarith]]]
 
-A group of adventurers from [[The Three Dragons War]]. Their descendants are still running around, one assumes.
+![[IZ.jpg]]
+
+A group of adventurers, who became the heroes of [[The Three Dragons War]]. Their descendants are still running around, one assumes.
 
 ## Members:
 * Aedara Aelinar
 * Lorarora Silentread
 * Azir
-* Mudd
+* [[Stalwart Mudd]]
 * Kaycee Penelope Teapetal
 * Yllira, Arbiter of Torm
 * Gemma Steelbane

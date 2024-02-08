@@ -1,6 +1,6 @@
 {
   "pinned": [
-    "templater-obsidian:create-new-note-from-template",
-    "templater-obsidian:insert-templater"
+    "templater-obsidian:insert-templater",
+    "templater-obsidian:create-new-note-from-template"
   ]
 }

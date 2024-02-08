@@ -1,30 +1,18 @@
 ---
 type: location
 locationType: region
-Location: [[Ninareth]]
+Location: [[Ninarith]]
 tags: 
 - location/region/southern-cities
 ---
-
+![[southern-cities.jpg]]
 # Southern Cities
 
-TL;DR they're the cities in the south bro.
+> In the Southern Cities, life continues as it always has. Those city-states that shared a border with the [[Turian Waste]] wasted no time in claiming new territory, while others took advantage of their movements to take new land. They’re all still always at war, squabbling over this, or that, or the other thing. Right now I’m pretty sure that [[Mulfara]] is fighting the [[Slavaadi College]], [[Zalev]] is fighting [[Quaath]], and everyone is kind of fighting [[Arkhosia]] and [[Eberron]], but without the swords. But that’s today, who can say where things will stand tomorrow.
+> Slavery is most abundant [[Zalev]], [[Eberron]], and the [[The Slavaadi College]]
 
 
 ## Points of Interest
 ```dataviewjs
-dv.list(
-	dv.pages('[[' + dv.current().file.name + ']]')
-	.where(p => p.type == "location")
-	.where(p => p.Location)
-  .where((p) => {
-  	if(dv.isArray(p.Location)) {
-		return p.Location.path.includes(dv.current().file.name)	
-	} else {
-		return p.Location.path == dv.current().file.name
-	}
-  })
-  	.sort(p => p.file.name, 'asc')
-	.map(k => `[[${k.file.name}]]`))
-
+const { DisplayHelpers } = customJS; DisplayHelpers.listPointsOfInterest(dv);
 ```

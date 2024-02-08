@@ -1,10 +1,8 @@
-
 ---
 type: location
 locationType: place
 tags: 
 - location/school
-- location/place/redscale
 ---
 
 # Redscale Academy for Music and The Arts
@@ -15,26 +13,14 @@ A music conservatory, arts school, and general daycare for the children of the u
 
 They don't teach magic, really. 
 
-*They used to. When students ask, the answer is “it was too dangerous” but that’s definitely not the full story. Only by individual petition were certain spells permitted to be taught. Feather fall for the dancers, for example. Dancing lights. Harmless spells.*
+> They used to. When students ask, the answer is “it was too dangerous” but that’s definitely not the full story. Only by individual petition were certain spells permitted to be taught. Feather fall for the dancers, for example. Dancing lights. Harmless spells.
 
 [[Adrienne Spout]] went there, as did [[Julian Slater-Runehorn]]. 
 
 ## NPCs
 
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p['Alma Mater'] || p['Workplace']  )
-  .where((p) => {
-	  let am = p['Alma Mater'] && p['Alma Mater'].path == dv.current().file.name;
-	  let wp =  p['Workplace'] && p['Workplace'].path == dv.current().file.name;
-	  return am || wp
-  })
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`)
-)
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```
 
 ## History
@@ -53,8 +39,7 @@ dv.list(dv.pages('"People"')
 Really contributed to the worldwide renown of the school… and the atmosphere of elitism. Placed a lot of emphasis on performing for crowds, and having the students impress world leaders. For networking. He was a storyteller, which helped with the networking.
 
 ##### [[Corynn Akhodi]]
-Played the bagpipes and was up to some shady shit. 
-- [ ] ask joe how much adrienne knows about this situation
+Played the bagpipes and was up to some shady shit. She's the reason they don't teach magic.
 
 ##### [[Durstane Brystewood]]
-Immediately after Corynn Akhodi. He oversaw the removal of arcana from the curriculum, for safety reasons.
+Immediately after Corynn Akhodi. He oversaw the removal of arcana from the curriculum, for safety reasons. 

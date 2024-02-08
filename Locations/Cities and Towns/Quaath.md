@@ -10,17 +10,12 @@ tags:
 City
 [Location::[[Southern Cities]]]
 
+Consists of three circles, surrounding the [[Platinum Sanctuary of Quaath]]. The bronze circle, the silver circle, and the gold circle, in increasing order of wealth. 
+
 ## NPCs
 
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p.Home )
-  .where(p => p.Home.path == dv.current().file.name)
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`))
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```
 
 
@@ -28,18 +23,5 @@ dv.list(dv.pages('"People"')
 
 
 ```dataviewjs
-dv.list(
-	dv.pages('[[' + dv.current().file.name + ']]')
-	.where(p => p.type == "location")
-	.where(p => p.Location)
-  .where((p) => {
-  	if(dv.isArray(p.Location)) {
-		return p.Location.path.includes(dv.current().file.name)	
-	} else {
-		return p.Location.path == dv.current().file.name
-	}
-  })
-  	.sort(p => p.file.name, 'asc')
-	.map(k => `[[${k.file.name}]]`))
-
+const { DisplayHelpers } = customJS; DisplayHelpers.listPointsOfInterest(dv);
 ```

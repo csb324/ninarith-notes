@@ -5,17 +5,12 @@ tags:
 ---
 [Status::alive]
 [Race::Dragonborn]
-[Affiliation::[[The Guardians]], [[The Circle]]]
+[Affiliation::[[The Circle]]]
+[Affiliation::[[The Guardians]]]
 [Home::[[Arkhosia]]]
 
 # Quillette Guruden
 
-
-| | |
-|---------------|-----------|
-| Race 			| Dragonborn	|
-| Affiliations 	| [[The Guardians]], [[The Circle]]	|
-| Home 			| [[Arkhosia]]	|
-^bio
+A member of [[The Circle]] representing [[The Guardians]]. 
 
 Brother: [[Willen Guruden]]

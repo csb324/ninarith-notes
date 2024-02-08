@@ -6,45 +6,27 @@ tags:
 ---
 # Tinzelven
 **City, [Location::[[Arkhosia]]]**
-Outside of [[Jalantar]]
 
-* The kids at [[Redscale]] called it twiddletown because it's very small
-* Stores
-	* There's an armory run by a [[dwarf who seems to like us]] (and [[Hugh]] in particular)
-	* Clothing store run by a [[Victor]] (who is afraid of [[Hugh]] but likes us anyway) ([[Needley store or someshit]])
-	* [[Tack & Trade]]: Insane corner store that tried to sell us a keychain for like forty bucks. 
+A small town outside of [[Jalantar]]
 
+> Like most of these smaller towns, it has emerged in the last 70 years as people tired of the overcrowded slums that have overtaken so many of the world’s great cities. Tinzlevon is a small settlement, about 30 miles outside of [[Jalantar]]’s walls. It largely serves as a satellite city for Jalantar, allowing students and Jalantans to go and blow off some steam away from the [[Magister]]’s “watchful” gaze.
+
+
+* The kids at [[Redscale]] called it twiddletown
+
+### Stores
+* There's an armory run by [[Bliken Hammerov]] who seems to like us (and [[Hugh]] in particular)
+* [[Victor's Needle]]: Clothing store run by [[Victor]] (who is afraid of [[Hugh]] but likes us anyway)
+* [[Tack & Trade]]: Insane corner store that tried to sell us a keychain for like forty bucks. 
 
 ## NPCs
-
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p.Home )
-  .where(p => p.Home.path == dv.current().file.name)
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`))
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```
 
 
 ## Points of Interest
 
-
 ```dataviewjs
-dv.list(
-	dv.pages('[[' + dv.current().file.name + ']]')
-	.where(p => p.type == "location")
-	.where(p => p.Location)
-  .where((p) => {
-  	if(dv.isArray(p.Location)) {
-		return p.Location.path.includes(dv.current().file.name)	
-	} else {
-		return p.Location.path == dv.current().file.name
-	}
-  })
-  	.sort(p => p.file.name, 'asc')
-	.map(k => `[[${k.file.name}]]`))
-
+const { DisplayHelpers } = customJS; DisplayHelpers.listPointsOfInterest(dv);
 ```

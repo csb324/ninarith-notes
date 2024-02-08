@@ -4,41 +4,37 @@ locationType: city
 tags: 
 - location/city/jalantar
 ---
-
 # Jalantar
-<span class="subhead">City, [Location::[[Arkhosia]]]</span>
+City, [Location::[[Arkhosia]]]
+
+![[jalantar-textured.jpeg]]
+
+The second major city in [[Arkhosia]], Jalantar is the birthplace of [[Lillith Redscale]]. They really like that fact. 
+
+It was a smaller town then, but after [[Redscale]] Academy was founded, the city became more of a destination.
+
+# Districts
+- [[The Promenade]]
+- [[The Maw]]
+- [[The Publics]]
+- [[The Academy District]]
+- [[Redscale]] Campus
+- [[Praise District]]
+- [[Northern Wing]]
+- [[Southern Wing]]
+- [[The Fallsides]]
+- [[Divian Wilds]]
+
+**Not quite a district**
+* [[Jalantar Sewers]]
 
 
 ## NPCs
-
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p.Home )
-  .where(p => p.Home.path == dv.current().file.name)
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`))
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```
 
-
 ## Points of Interest
-
-
 ```dataviewjs
-dv.list(
-	dv.pages('[[' + dv.current().file.name + ']]')
-	.where(p => p.type == "location")
-	.where(p => p.Location)
-  .where((p) => {
-  	if(dv.isArray(p.Location)) {
-		return p.Location.path.includes(dv.current().file.name)	
-	} else {
-		return p.Location.path == dv.current().file.name
-	}
-  })
-  	.sort(p => p.file.name, 'asc')
-	.map(k => `[[${k.file.name}]]`))
-
+const { DisplayHelpers } = customJS; DisplayHelpers.listPointsOfInterest(dv);
 ```

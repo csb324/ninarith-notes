@@ -1,12 +1,12 @@
 {
   "workspaces": {
-    "Session Log": {
+    "default": {
       "main": {
         "id": "a3f2d48d1dd904d3",
         "type": "split",
         "children": [
           {
-            "id": "a27a17a60ee1bec5",
+            "id": "d6bd8a4fd10205fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#location/city/tinzelven",
+                    "query": "tag:#location",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -63,7 +63,7 @@
           {
             "id": "7159ed136d8a13ac",
             "type": "tabs",
-            "dimension": 62.109375,
+            "dimension": 64.453125,
             "children": [
               {
                 "id": "c04aea16790cc58c",
@@ -114,22 +114,6 @@
                 }
               },
               {
-                "id": "cb3e892d2ed503dc",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-matrix",
-                  "state": {}
-                }
-              },
-              {
-                "id": "541cb50b9c660c1d",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-stats",
-                  "state": {}
-                }
-              },
-              {
                 "id": "79d3bdfec3fa00e5",
                 "type": "leaf",
                 "state": {
@@ -138,6 +122,22 @@
                     "file": "Sessions/Session Log.md"
                   }
                 }
+              },
+              {
+                "id": "8fe261514a69cf80",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                }
+              },
+              {
+                "id": "189adb22ca3327e4",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                }
               }
             ],
             "currentTab": 3
@@ -145,7 +145,7 @@
           {
             "id": "88504b5f00d7b229",
             "type": "tabs",
-            "dimension": 37.890625,
+            "dimension": 35.546875,
             "children": [
               {
                 "id": "3813da65895a1b54",
@@ -168,10 +168,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 453
+        "width": 373
       },
-      "active": "a27a17a60ee1bec5"
+      "active": "d6bd8a4fd10205fb"
     }
   },
-  "active": "Session Log"
+  "active": "default"
 }

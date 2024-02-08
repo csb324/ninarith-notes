@@ -1,7 +1,5 @@
 class Campaign {
-
   constructor() {
-
     this._locationTypes = {
       "Country": {
         folder: "Locations/Countries",
@@ -70,70 +68,74 @@ class Campaign {
         return defaultValue;
     }
     return choice;
-}
+  }
 
-getCountries = () => {
-  let countries = Object.keys(app.metadataCache.fileCache).filter((c) => { 
-		return c.startsWith('Locations/Countries')
-	});
-	countries = countries.map((c) => {
-		return c.split("Locations/Countries/")[1].split(".")[0]
-	})
-	return countries;
-}
-
-getLocations = () => {
-  let countries = app.vault.getFiles().filter((c) => { 
-		return c.path.startsWith('Locations/')
-	});
-  
-	return countries.map((c) => c.basename);
-}
-
-getCities = () => {
-  let cities = Object.keys(app.metadataCache.fileCache).filter((c) => { 
-		return c.startsWith('Locations/Cities\ and\ Towns')
-	});
-	cities = cities.map((c) => {
-		return c.split("Locations/Cities\ and\ Towns/")[1].split(".")[0]
-	})
-	return cities;
-}
-
-getValues = (whichPages, key) => {
-  let values;
-  app.plugins.plugins.dataview.withApi((dv) => {
-    values = dv.pages()[key].array();
-    values = values.filter(this.onlyUnique);
-  });
-  return values;
-}
-
-getLatestSession = () => {
-  let values;
-  app.plugins.plugins.dataview.withApi((dv) => {
-    values = dv.pages('"Sessions"').file.name.map((n) => {
-      let d = n.split("-")[1];
-      return parseInt(d);
-    }).filter((n) => {
-      return !isNaN(n);
+  getCountries = () => {
+    let countries = Object.keys(app.metadataCache.fileCache).filter((c) => { 
+      return c.startsWith('Locations/Countries')
     });
-    values = values.array().sort().reverse();
-  });
+    countries = countries.map((c) => {
+      return c.split("Locations/Countries/")[1].split(".")[0]
+    })
+    return countries;
+  }
 
-  console.log(values);
-  return values[0];
-}
+  getLocations = () => {
+    let countries = app.vault.getFiles().filter((c) => { 
+      return c.path.startsWith('Locations/')
+    });
+    
+    return countries.map((c) => c.basename);
+  }
 
-onlyUnique = (value, index, self) => {
-  return self.indexOf(value) === index;
-}
+  getCities = () => {
+    let cities = Object.keys(app.metadataCache.fileCache).filter((c) => { 
+      return c.startsWith('Locations/Cities\ and\ Towns')
+    });
+    cities = cities.map((c) => {
+      return c.split("Locations/Cities\ and\ Towns/")[1].split(".")[0]
+    })
+    return cities;
+  }
 
-lowerKebab = (name) => {
-  return name
-      .replace(/([a-z])([A-Z])/g, '$1-$2') // separate on camelCase
-      .replace(/[\s_]+/g, '-') // replace all spaces and low dash
-      .replace(/\'/, "") // ignore apostrophes
-      .toLowerCase();        
+  getValues = (whichPages, key) => {
+    let values;
+    app.plugins.plugins.dataview.withApi((dv) => {
+      values = dv.pages()[key].array();
+      values = values.filter(this.onlyUnique);
+    });
+    return values;
+  }
+
+  getLatestSession = () => {
+    let values;
+    app.plugins.plugins.dataview.withApi((dv) => {
+      values = dv.pages('"Sessions"').file.name.map((n) => {
+        let d = n.split("-")[1];
+        return parseInt(d);
+      }).filter((n) => {
+        return !isNaN(n);
+      });
+      values = values.array();
+      console.log(values);      
+    });
+    values.sort((a, b) => a - b);
+    console.log(values);
+    values.reverse();
+
+    console.log(values);
+    return values[0];
+  }
+
+  onlyUnique = (value, index, self) => {
+    return self.indexOf(value) === index;
+  }
+
+  lowerKebab = (name) => {
+    return name
+        .replace(/([a-z])([A-Z])/g, '$1-$2') // separate on camelCase
+        .replace(/[\s_]+/g, '-') // replace all spaces and low dash
+        .replace(/\'/, "") // ignore apostrophes
+        .toLowerCase();        
   }
 }

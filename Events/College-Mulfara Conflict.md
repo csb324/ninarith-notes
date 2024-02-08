@@ -2,14 +2,15 @@
 type: world-event
 ---
 
-# it's a war 
+# College-Mulfara Conflict
 
-[Location::[[Slavaadi College]]]
+[Location::[[Locations/Countries/Slavaadi College]]]
 [Location::[[Mulfara]]]
 [Status::Ongoing]
 
-The [[Slavaadi College]] and [[Mulfara]] are at war, probably over territory but confirm that w joe
+The [[Locations/Countries/Slavaadi College]] and [[Mulfara]] are at war, probably over territory.
 
 [[Eberron]] sides with... Mulfara?
 [[Arkhosia]] sides with Slavaadi College
 
+A proxy war for the [[Eberron-Arkhosia Cold War]]

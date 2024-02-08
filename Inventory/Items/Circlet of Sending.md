@@ -1,0 +1,32 @@
+---
+type: item
+tags:
+- item
+---
+
+#  Circlet of Sending
+
+[Owned by::[[The Unforged Few]]]
+[Carried by::[[Adrienne Spout|Adrienne]]]
+[Origin::[[The Beauties of Shadow]] and [[The Beauties of Shadow]]]
+[Attunement:: Yes]
+
+Item, appears to be a delicate golden diadem, was worn (and used) by [[The Beauties of Shadow]] at her death
+ 
+As an action, once per day, can cast the spell sending. While attuned, allows free communication between every twin circlet -- unknown number or location. #mysteries 
+
+### notes
+in [[session-18]], Adrienne attuned and ending up in conversation with unknown twin circlets.
+
+	A: “You dare to wear her amulet? You aren’t fit to be a fly in her hair, you puny mortal, you walking”
+
+	B: “Cowardly bitch, we’ll kill you - we’ll rend you limb from limb and grind you into a paste”
+ 
+	A: “Drink your blood, feed it to each other”
+
+	B: “You would use this channel that you stole from our sister”
+
+	Adrienne: “Orley is that you?” 
+	
+	A: “that’s in…”
+- 

@@ -4,19 +4,28 @@ tags:
 - PC
 ---
 
-# Freya
+# Freya Polaris
 [Race::Firbolg]
 [Status::alive]
 [Class::Druid]
 [Class::Barbarian]
-[Home::[[True North]]]
-[Affiliation::[[Our Party]]]
+[Home::[[Polaris]]
+[Affiliation::[[The Unforged Few]]]
 [Affiliation::[[Wayfinders]]]
+[Affiliation::[[Groups and Organizations/The Collection]]]
+[Pronouns:: she/hers]
+#unforged-few
 
-She's a wayfinder. Or, a wayfinder in training.
+![[Freya.jpg]]
 
-She punched [[Costi]] which Adrienne thinks is pretty solid
+### Background
+She's a wayfinder in training.
 
 Not sure what's going on with her anger or her nature magic but isn't thrilled about it.
 
-Almost got married one time.
+Almost got married one time. Three snow foxes for wedding outfit
+
+#### Known aliases
+- Gruungslayer [[session-5]]
+- "The other one" - [[session-5]]
+- Courtney [[session-24]] 

@@ -33,14 +33,6 @@ tags:
 Store
 
 ## NPCs
-
 ```dataviewjs
-
-dv.list(dv.pages('"People"')
-  .where(p => p.type == "npc")
-  .where(p => p.Workplace )
-  .where(p => p.Workplace.path == dv.current().file.name)
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[[${k.file.name}]]`))
-  
+const { DisplayHelpers } = customJS; DisplayHelpers.listNPCs(dv);
 ```

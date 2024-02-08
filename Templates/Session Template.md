@@ -7,8 +7,9 @@ if(tp.file.title !== 'Untitled') {
 	number = Campaign.getLatestSession() + 1;
 	title = "session-" + number;
 }
+	console.log(title);
 
-const folder = 'Sessions'
+const folder = 'Session Recaps'
 
 await tp.file.move(`${folder}/${title}`);
 -%>
