@@ -30,6 +30,8 @@ jobs:
           git config -l | grep 'http\..*\.extraheader' | cut -d= -f1 | xargs -L1 git config --unset-all
           git config user.name $GITHUB_ACTOR
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
-          npm run fetch && git add . && git commit -m "BUILD: ` date +"%Y-%m-%d %T" `"
+          npm run fetch && git add .
+          echo "committing!"
+          git commit -m "BUILD: ` date +"%Y-%m-%d %T" `"
           git push "$GIT_CMD_REPOSITORY" --set-upstream main
         working-directory: main
