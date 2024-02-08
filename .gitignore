@@ -9,9 +9,6 @@
 .obsidian/plugins/obsidian-metatable
 .obsidian/plugins/tag-wrangler
 .obsidian/plugins/templater-obsidian
-
-.DS_Store
-private\ notes/*
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/command-palette.json
