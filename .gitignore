@@ -1,1 +1,12 @@
 *.DS_Store
+.obsidian/plugins/customjs
+.obsidian/plugins/dataview
+.obsidian/plugins/map-of-content
+.obsidian/plugins/obsidian-admonition
+.obsidian/plugins/obsidian-checklist-plugin
+.obsidian/plugins/obsidian-codemirror-options
+.obsidian/plugins/obsidian-meta-css
+.obsidian/plugins/obsidian-metatable
+.obsidian/plugins/tag-wrangler
+.obsidian/plugins/templater-obsidian
+
