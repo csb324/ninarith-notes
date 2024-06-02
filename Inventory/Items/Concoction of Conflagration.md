@@ -9,7 +9,7 @@ tags:
 [Owned by::[[The Unforged Few]]]
 [Carried by::[[Rez]]]
 [Origin:: [[Jalantar]]]
-[Status:: Active]
+[Status:: Used]
 
 Item, potion bottle full of a bubbling red liquid that gives off a light heat
 

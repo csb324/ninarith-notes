@@ -7,7 +7,7 @@ aliases:
 ---
 
 # Lance Corporal Jalvena Kharim
-[Status::alive]
+[Status::dead]
 [Race::Human]
 [Relationship::neutral]
 [Home::[[Viliki]]]
