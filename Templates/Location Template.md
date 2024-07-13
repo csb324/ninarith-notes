@@ -6,7 +6,6 @@ if(!tp.file.title || tp.file.title == "Untitled") {
 
 const locationType = await tp.system.suggester(Campaign.locationTypes, Campaign.locationTypes);
 
-const folder = Campaign.getLocationFolder(locationType);
 const parentType = Campaign.getLocationParent(locationType);
 
 let parent = '';
@@ -21,6 +20,7 @@ if (parentType == "city" || parentType == "country") {
 	parent = await tp.system.suggester(options, options);
 }
 
+const folder = Campaign.getLocationFolder(locationType, parent);
 
 await tp.file.move(`${folder}/${title}`);
 
