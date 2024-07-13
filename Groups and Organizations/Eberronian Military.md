@@ -8,10 +8,18 @@ tags:
 
 The military of [[Eberron]]
 
-### Organizations
-[[Beating Heart Battalion]]
+### Hierarchy
+[[Eberronian First Division]]
+[[Eberronian Second Division]]
+- [[Beating Heart Battalion]]
+- [[Eberronian Seventh Brigade]]
+[[Eberronian Third Division]]
+... more divisions?
+
+There's such thing as a Regiment but maybe that's only a thing in Arkhosia......?
 
 ## NPCs
 ```dataviewjs
 const { DisplayHelpers } = customJS; DisplayHelpers.listAffiliations(dv);
 ```
+

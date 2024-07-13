@@ -1,20 +1,17 @@
 # Group Inventory
 
-### Currency - 4,631
--$1000 gp as collateral to [[Lance Corporal Jalvena Kharim]]
-
+### Currency - 7,651
 
 ## Potions:
 
 Healing:
-	Superior healing (900) - 1, 1 Carried by [[Rez]]
-	Greater healing (400) - 2
-	Regular healing (200) - 1
+	Superior healing (900) - 2  by [[Rez]] 1 by [[Hugh]] 1 by [[Freya]] 1 by [[Adrienne Spout|Adrienne]]
+	Greater healing (400) - 1
+	Regular healing (200) - 
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
 Potion of Darkvision - 4
-Potion of Necrotic Resistance - 2
-Aid - 2
-Heroism - 2
+Potion of Necrotic Resistance - 1 
+Aid - 2 (Hugh)
 
 ## Scrolls:
 
@@ -48,9 +45,6 @@ Carried by [[Costi]]
 
 [[Amulet of Blasting]] (A)
 Carried by [[Hugh]]
-
-[[Concoction of Conflagration]]
-Carried by [[Rez]]
 
 [[Curator Quills]]
 Carried by [[Freya]]
@@ -130,6 +124,23 @@ Carried by [[Hugh]]
 [[Ring of Temporal Salvation]] (A)
 Carried by [[Rez]]
 
+ [[Boots of Misty Step]], when attuned you can cast misty step twice (A)
+ Carried by [[Hugh]]
+
+[[Sanctuary Amulet]], resist necro, cast spare the dying BA, 1 per day creature within 60ft react to activate and goes to 1  
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Ring of Free Action]], no difficult terrain, no magic paralyze restrain or reduce movement carried Carried by [[Freya]]
+
+ [[Blood Curler]] (A) - +1 long sword, does 1d8, added 1d10 necrotic. On a hit, expand a charge (2 per day) to require a DC 17 Con SVT or be stunned until the end of your next round.
+ Carried by [[Freya]]
+
+Hats of Disguise (5) (A)
+
+Kuo-Toa staffs - 1
+
+Glowy-green sorta undead making cylinders - 3
+
 ## Monster Parts
 
 ### Dragon Scales
@@ -137,9 +148,19 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
-[[Winifey]] tattoo skin flap
+Medusa snakes -5
+
+Medusa eyes - 2
+
+Bullette plates - 3
 
 ## Mundane Items: 
+
+[[Winifey]] tattoo skin flap
+
+vials of black ooze - 6
+
+black tipped crossbow bolts - 20
 
 ### Costi Spell Materials
 Parchment - 5 spell levels
@@ -212,7 +233,7 @@ Lanterns - 5
 
 Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
 
-Writ of Authority for [[Viliki]] 
+Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 
 ### Clothes
 One formal outfit each
@@ -238,7 +259,7 @@ Given to [[Father Thronestone]]
 Unscaled shorthand key
 Given to [[Father Thronestone]]
 
-[[Jorus]] Holy Symbol of [[Bahamat]]
+[[Jorus]] Holy Symbol of [[Bahamut]]
 Given to [[Ghez Yhutl]]
 
 Gorgorn petrification sac
@@ -282,3 +303,6 @@ Carried by [[Jade]]
 
 [[Horn of Blasting]]
 Given to [[Rhynilex Svenik|Rhyn]]
+
+[[Concoction of Conflagration]]
+Used by [[Rez]]

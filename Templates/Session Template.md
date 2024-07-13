@@ -21,3 +21,4 @@ prev: [[session-<% number - 1 %>]]
 
 # Session <% number %>
 
+For detailed recap, see [[notes-<% number %>]]

@@ -15,12 +15,13 @@ aliases:
 [Home:: [[Burbank Compound]]]
 [Title:: Colonel]
 [Affiliation:: [[Eberronian Military]]]
+[Affiliation:: [[Eberronian Second Division]]]
 [Affiliation:: [[Julian Slater-Runehorn]]]
 [Affiliation:: [[Duchess v'Dharinov]]]
 [Affiliation:: [[Beating Heart Battalion]]]
 [Affiliation::[[Burbanks]]]
 
-Husband of [[Sienna Burbank]],  an [[Eberronian Military]] colonel. 
+Husband of [[Sienna Burbank]], he's an [[Eberronian Military]] colonel. 
 
 Good friend of [[Julian Slater-Runehorn|Julian]] and is a regular guest at his manor. Was his classmate at [[Redscale]]. 
 ### Background

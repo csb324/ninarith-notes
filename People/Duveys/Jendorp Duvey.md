@@ -14,6 +14,6 @@ aliases:
 [Home::[[Quaath]]]
 [pronouns:: she/her]
 
-Probably the [[Jendorp Duvey|J. Duvey]] from the [[Locations/Arkhosia City/Duvey Crypt|Duvey Crypt]]
+Probably the [[Jendorp Duvey|J. Duvey]] from the [[Duvey Crypt|Duvey Crypt]]
 ### Relationships
 - Mother is [[Carlot Duvey]]

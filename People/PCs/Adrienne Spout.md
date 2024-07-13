@@ -1,8 +1,10 @@
 ---
-aliases: Adrienne
+aliases:
+  - Adrienne
+  - Blue Rose
 type: PC
 tags:
-- PC
+  - PC
 ---
 
 # Adrienne
@@ -10,18 +12,19 @@ tags:
 [Race::Half-Elf]
 [Status::dead]
 
-[Born::[[Locations/Cities and Towns/Ru'Nileth]]]
+[Born::[[Ru'Nileth]]]
 [Alma Mater::[[Redscale]]]
 [Affiliation::[[The Unforged Few]]]
 [Affiliation::[[Church of Corellon Larethian]]]
 [Affiliation::[[Groups and Organizations/The Collection]]]
+[Affiliation:: [[The Order of the Blue Rose]]]
 [Class::Bard]
 [Pronouns:: she/hers]
 #unforged-few
 
 ![[Addy .jpg]]
 
-A half-elf bard from [[Locations/Cities and Towns/Ru'Nileth]], who attended [[Redscale]]. She once worked at [[The Gilded Instrument]], and then upon graduation took an apprenticeship with a man named [[Julian Slater-Runehorn|Julian]]. She is now on a sabbatical, and trying to get a harp repaired so she can return it to the [[Temple of Corellon Outside Quaath]]. 
+A half-elf bard from [[Ru'Nileth]], who attended [[Redscale]]. She once worked at [[The Gilded Instrument]], and then upon graduation took an apprenticeship with a man named [[Julian Slater-Runehorn|Julian]]. She is now on a sabbatical, and trying to get a harp repaired so she can return it to the [[Temple of Corellon Outside Quaath]]. 
 
 #### Known Aliases
 * Mud - [[session-5]]

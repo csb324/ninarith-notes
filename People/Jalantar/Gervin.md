@@ -9,7 +9,7 @@ tags:
 [Race::human]
 [Relationship::neutral]
 [Workplace:: [[Temple of  Platinum Dragon in Jalantar]]]
-[Affiliation:: [[Bahamat]]]
+[Affiliation:: [[Bahamut]]]
 [Affiliation:: [[Order of the Platinum Dragon]]]
 [Location:: [[Jalantar]]]
 

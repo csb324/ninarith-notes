@@ -10,7 +10,7 @@ tags:
 [Relationship::neutral]
 [Home::[[Kazan]]]
 [Affiliation:: [[The Silver Halves]]]
-[Affiliation:: [[Order of the Platinum Dragon]]]
+[Affiliation:: [[Bahamut]]]
 [Affiliation:: [[Rez's Family]]]
 [Class:: Gunslinger]
 
