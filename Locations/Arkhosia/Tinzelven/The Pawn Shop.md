@@ -8,7 +8,7 @@ tags:
 ---
 # The Pawn Shop
 Store
-[Location::[[Locations/Cities and Towns/Ru'Nileth]]]
+[Location::[[Ru'Nileth]]]
 
 ## NPCs
   

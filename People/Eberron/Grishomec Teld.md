@@ -3,7 +3,6 @@ type: npc
 tags:
   - npc
 aliases:
-  - Capt. Teld
   - Major Teld
   - Gray Fur
 ---
@@ -14,14 +13,15 @@ aliases:
 [Relationship::neutral-to-enemy]
 [Location:: [[Burbank Compound]]]
 [Home:: [[Burbank Compound]]]
-[Title:: Captain]
+[Title::Major]
 [Affiliation:: [[Eberronian Military]]]
-[Affiliation:: [[Eberronian Seventh Brigade]]]
+[Affiliation:: [[Eberronian Seventh Battalion]]]
+[Affiliation:: [[Teld's Dogs]]]
 
-He's an older minotaur, with graying fur, lots of muscle but some weight on top of it. He has a broken horn and a number of facial piercings, with well-worn armor and a huge tower shield on his back. He carries a giant axe seemingly made of bones forged together. His left hand is horrifically mangled and appears unusable. 
+He's an older minotaur, with graying fur, lots of muscle but some weight on top of it. He has a broken horn and a number of facial piercings, with well-worn armor and a huge tower shield on his back. He carries a giant axe seemingly made of bones forged together. His left hand is horrifically mangled and appears unusable. Doesn't seem to slow him down much.
 
 ### Background
-He's a Captain in the [[Eberronian Military]] and leads the [[Eberronian Seventh Brigade]], but has been actively challenging [[Cliff Burbank|Cliff]] for control of the [[Eberronian Second Division]]. 
+He's a Captain in the [[Eberronian Military]] and leads the [[Eberronian Seventh Battalion]], but has been actively challenging [[Cliff Burbank|Cliff]] for control of the [[Eberronian Second Division]]. 
 
 ### Who're They To Us?
 Leader or in leadership position of seventh brigade. ELA does not like him. [[Nadia]] told [[Costi]] to alert her should Gishomec’s troops leave after the execution of [[Marina Alduchev]], [[Nicky]], [[Private Hageth]] et al.

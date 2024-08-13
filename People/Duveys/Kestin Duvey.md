@@ -13,6 +13,6 @@ aliases:
 [Home::[[Quaath]]]
 [pronouns:: he/him]
 
-Probably the [[Kestin Duvey|K. Duvey]] from the [[Locations/Arkhosia City/Duvey Crypt|Duvey Crypt]]
+Probably the [[Kestin Duvey|K. Duvey]] from the [[Duvey Crypt|Duvey Crypt]]
 ### Relationships
 - Father is [[Albus Duvey]]

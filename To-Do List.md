@@ -8,15 +8,19 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### Immediate
-* tell [[Costi's mom]] that the passageway we found has been compromised
 * reply to [[Pruvki Forgaveat]] and stop his panicking re: experimental undead
-* Meet up with [[Willow]] or sending him?
 
 ### Short-Term
 
 
 ### Middle-Term
-
+* scries
+	* [[Alhoon]]
+	* [[Pleetos Alentas]]
+	* [[Von]]
+	* [[Cliff Burbank]]
+	* [[Devkorus Kaa|Dev]] 
+	* [[Ronan]]
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]
@@ -30,6 +34,7 @@ tags:
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
 * Check in with [[Sienna Burbank]] about visiting [[Burbank Compound]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
 	* talk to [[Victoria Several|Victoria]] about this?
+*  [[Bahamut]], [[Moradin]], [[Corellon Larethian]], and [[Pelor]] need help from dragons??
 
 ### To Buy
 * holy water

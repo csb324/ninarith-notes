@@ -1,7 +1,9 @@
 ---
 type: npc
-tags: 
-- npc
+tags:
+  - npc
+aliases:
+  - Baby Boy
 ---
 
 # Silverscale Ghez Yhutl
@@ -9,7 +11,7 @@ tags:
 [Race::dragonborn]
 [Relationship::neutral]
 [Workplace:: [[Temple of  Platinum Dragon in Jalantar]]]
-[Affiliation:: [[Bahamat]]]
+[Affiliation:: [[Bahamut]]]
 [Affiliation:: [[Order of the Platinum Dragon]]]
 [Location:: [[Jalantar]]]
 [Title:: Silverscale]

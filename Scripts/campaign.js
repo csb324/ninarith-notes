@@ -1,5 +1,7 @@
 class Campaign {
   constructor() {
+    this._cities = {};
+    
     this._locationTypes = {
       "Country": {
         folder: "Locations/Countries",
@@ -35,8 +37,25 @@ class Campaign {
     ]
   }
 
-  getLocationFolder = (k) => {
+  getLocationFolderOld = (k) => {
     return this._locationTypes[k].folder;
+  }
+
+  getLocationFolder = (locationType, parent) => {
+
+    console.log("PARENT IS:");
+    console.log(parent);
+
+    console.log(this._cities[parent]);
+
+    let cityFolder = this._cities[parent].folder;
+    if(cityFolder) {
+      cityFolder = cityFolder + "/" + parent;
+      cityFolder = cityFolder.split(/\(|\)/).join("");
+      return cityFolder;
+    }
+
+    return this._locationTypes[locationType].folder;
   }
 
   getLocationParent = (k) => {
@@ -88,21 +107,31 @@ class Campaign {
     return countries.map((c) => c.basename);
   }
 
-  getCities = () => {
-    let cities = Object.keys(app.metadataCache.fileCache).filter((c) => { 
-      return c.startsWith('Locations/Cities\ and\ Towns')
+  cacheCities = (citiesResponse) => {
+    this._cities = {};
+    citiesResponse.array().forEach(c => {
+      this._cities[c.file.name] = {
+        folder: c.file.folder
+      }
     });
-    cities = cities.map((c) => {
-      return c.split("Locations/Cities\ and\ Towns/")[1].split(".")[0]
+  }
+
+  getCities = () => {
+    let values = [];
+    app.plugins.plugins.dataview.withApi((dv) => {
+      const cities = dv.pages('"Locations"').filter((c) => c.locationType == 'city');
+      this.cacheCities(cities);
+      values = cities.file.name.array()
     })
-    return cities;
+    return values
   }
 
   getValues = (whichPages, key) => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
-      values = dv.pages()[key].array();
+      values = dv.pages(`"${whichPages}"`)[key].array();
       values = values.filter(this.onlyUnique);
+      console.log(values);
     });
     return values;
   }
@@ -110,7 +139,7 @@ class Campaign {
   getLatestSession = () => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
-      values = dv.pages('"Sessions"').file.name.map((n) => {
+      values = dv.pages('"Session Recaps"').file.name.map((n) => {
         let d = n.split("-")[1];
         return parseInt(d);
       }).filter((n) => {

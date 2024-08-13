@@ -10,6 +10,7 @@ tags:
 [Relationship::friend]
 [Home::[[Taleem]]]
 [Affiliation::[[Rez's Family]]]
+[Affiliation:: [[Bahamut]]]
 
 He's some kind of diplomat. He used to be an adventurer - he's a warlock, it seems. He travels around the continent. He has met a red Firbolg. 
 

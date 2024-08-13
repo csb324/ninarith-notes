@@ -1,13 +1,49 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:People ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "Path: People  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "Path: Locations/Eberron  ",
+      "color": {
+        "a": 1,
+        "rgb": 8477910
+      }
+    },
+    {
+      "query": "Path: Locations/Arkhosia ",
+      "color": {
+        "a": 1,
+        "rgb": 15514162
+      }
+    },
+    {
+      "query": "file: \"The Unforged Few\"",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path: (\"Session Notes\" OR \"Session Recaps\")",
+      "color": {
+        "a": 1,
+        "rgb": 16777042
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1141859279927413,
-  "close": true
+  "scale": 0.9290579182474865,
+  "close": false
 }

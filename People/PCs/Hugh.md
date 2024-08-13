@@ -8,7 +8,7 @@ tags:
   - PC
 ---
 
-# Human "Hugh" Named Finn
+# Human "~~Hugh~~" "Finn" Named Finn
 [Status::alive]
 [Race::Warforged]
 [Home::[[Eberron]]]
@@ -23,7 +23,9 @@ A [Class::Cleric] of [[TrueSilver]].
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
 
-Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Battalion]] 
+~~Has no memories beyond the last year or so~~ (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Battalion]] 
+
+**Update**: He got his memories back and his name is Finn now.
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
@@ -38,3 +40,5 @@ His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bo
 
 
 ![[Riddles GIF.gif]]
+
+
