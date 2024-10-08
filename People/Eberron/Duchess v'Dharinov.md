@@ -19,3 +19,6 @@ There are detailed accountings of her troop numbers, areas of fortification and 
 Her personal file is quite redacted, but it appears they have details on her personal life, on those close to her including a long, long list of paramours and lovers, and suspected children. 
 
 There are folios on all of her military officers, as well, including one on [[Cliff Burbank]]. They're surprised he's that high ranking. 
+
+### [[A Murder of Dukes]]
+We have the [[ELA Ebony Stake]] - a vestige of her coffin, said to prevent them from doing some of their most significant magic. He tells us more about vampires, that the higher up they are, the harder they are to kill. If you stick one with an inverted piece of their own coffin, you can 

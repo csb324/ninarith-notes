@@ -1,10 +1,12 @@
 ---
 type: world-event
+status: Ongoing
 ---
 
 # Dragon Scales Ahhhhh
 [Status::Ongoing]
 [See Also:: [[Rez's Report]]]
+[Affiliation:: [[Rez's Family]]]
 
 ### The Problem
 [[Father Thronestone]] helped out [[Rez]] with an experimental treatment - melting down dragon scales and grafting them onto her cut patch of dragon scales on her face. To everyone's delight, it worked! However, this got [[Father Thronestone]] thinking -- could this be a new breakthrough?? Spoiler: it should not be. 

@@ -18,9 +18,23 @@ tags:
 	* [[Alhoon]]
 	* [[Pleetos Alentas]]
 	* [[Von]]
-	* [[Cliff Burbank]]
-	* [[Devkorus Kaa|Dev]] 
 	* [[Ronan]]
+	* [[Sven]] with the [[Duke v'Luthei]]
+	* [[Starstool Daygrip]]
+	* [[The Burning Sons]] 
+	* [[Captain Fretze|Fretze]]
+	* [[Niko]] / [[Giary]]
+* legends lore
+	* [[Weirefesteria]] bark with [[Mysterious Circles]]
+	* gold fingers from the [[Alhoon]]
+	* 
+* Meet ups in [[Jezeten]]
+	* [[Colvia Ghul]]
+	* sounds like maybe [[Grishomec Teld|Major Teld]]
+* Meet ups in [[New Fairhaven]]
+	* [[The Silver Halves]]
+	* [[Willow]] maybe?
+	* 
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]

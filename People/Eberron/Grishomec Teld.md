@@ -15,7 +15,7 @@ aliases:
 [Home:: [[Burbank Compound]]]
 [Title::Major]
 [Affiliation:: [[Eberronian Military]]]
-[Affiliation:: [[Eberronian Seventh Battalion]]]
+[Affiliation:: [[Eberronian First Division]]
 [Affiliation:: [[Teld's Dogs]]]
 
 He's an older minotaur, with graying fur, lots of muscle but some weight on top of it. He has a broken horn and a number of facial piercings, with well-worn armor and a huge tower shield on his back. He carries a giant axe seemingly made of bones forged together. His left hand is horrifically mangled and appears unusable. Doesn't seem to slow him down much.

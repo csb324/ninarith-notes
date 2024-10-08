@@ -30,3 +30,7 @@ teld approached [[Devkorus Kaa|Dev]] location
 he tells everyone other than rez to look at a wall, and grabs rez saying "so much depends on you all, i have faith in you"
 
 a voice in the door, appearing from the ether, a large hairy man. I knew you were up to no good, [[Lukan]], and [[Jamzik Zodevzo|Jamzik]]. He says he's been following us for days. 5 other figures, heavy with furs, step in. [[Jamzik Zodevzo|Jamzik]] says "I trusted you".
+
+
+
+

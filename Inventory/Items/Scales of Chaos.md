@@ -44,3 +44,4 @@ You can use these points as if they were normal sorcery points. The Scales can h
 * 1 (with 4 points) - everyone within 10 feet of me becomes invisible
 * 9 (with 4 points) - *know in advance* I would get a huge burst of magical energy
 * 6 (with 4 points) - dimension door, with one unknown creature 
+* 4 (with 4 points) - Flame Strike CENTERED ON ME "Oops"

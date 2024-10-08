@@ -256,3 +256,22 @@ Finn / Magister talk:
 - "I slept with Rez." Left a good review but not his type.
 
 # 118
+Chromatic orb
+Frost fingers
+Blur
+Hold person
+Lightning Bolt
+Stinking Cloud
+Banishment
+Stormsphere
+Cloud Kill
+
+
+- Leiutenant ambassador
+- Diplomatic core
+- 2nd division
+- 4 years, 3 outside of Ebberron under tutelage of another ambassador
+- In first 2 years, 9 months required in Ebberron
+- Commission of 50 gp a month, 20 set aside to purchase apartments in Jezeten upon completion of ambassadorship
+- Dated when arrived at chateaux
+- 

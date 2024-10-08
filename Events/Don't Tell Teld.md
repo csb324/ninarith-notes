@@ -1,7 +1,7 @@
 ---
 type: world-event
 region: "[[Eberron]]"
-status: Ongoing
+status: ended
 ---
 # Don't Tell Teld
 [Affiliation::[[Eberronian Military]]]
