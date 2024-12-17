@@ -4,7 +4,7 @@ locationType: city
 tags: 
 - location/city/jezeten
 ---
-
+![[Map of Jezeten.png]]
 # Jezeten
 City, [Location::[[Eberron]]]
 

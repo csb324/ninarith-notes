@@ -1,30 +1,35 @@
 # Group Inventory
 
-### Currency - 9,231
+### Currency - 2,183
 ##### Gems:
 Pearl
 Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
 diamond ring - 3's revivify's worth (900gp worth)
 diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
+diamonds - 500gp worth
 Topaz  ([[Rez]])
 
 Bag? Need to open
 
 ## Potions:
 Healing:
-	Superior healing (900) - 1 by [[Costi]] 1 by [[Rez]] 1 by [[Hugh]] 1 by [[Freya]] 
-	Greater healing (400) - 1 by [[Adrienne Spout|Adrienne]]
+	Supreme (6000?) - 1, carried by [[Freya]]
+	Superior healing (900) - 1 per person
+	Greater healing (400) - 2 per person
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
 Potion of Darkvision - 4
-Potion of Necrotic Resistance - 1 
+Potion of Necrotic Resistance - 3
 Aid - 1 ([[Hugh]])
 
 ## Scrolls:
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
-Feather Fall [[Costi]]
+Counterspell [[Adrienne Spout|Adrienne]]
+Feather Fall - 2, [[Costi]]
+[[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
+[[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
 
 ### Spell Materials
 Parchment - 5 spell levels ([[Costi]])

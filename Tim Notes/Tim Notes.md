@@ -274,4 +274,28 @@ Cloud Kill
 - In first 2 years, 9 months required in Ebberron
 - Commission of 50 gp a month, 20 set aside to purchase apartments in Jezeten upon completion of ambassadorship
 - Dated when arrived at chateaux
-- 
+
+131
+- Met Stradvarth Coldseeker, seems cool.
+	- Underlings
+		- Pvt Norwath - Human
+		- Pvt Hralk - Arakokra
+		- Cpl Kevgotin - Human
+- Take crazy police vehicle through Highground, into Dharinov district
+	- Dharinov is very spacious
+	- City guard 
+- Jehneim Bastienev - Duchess' Chaimberlain
+- Meeting with Duchess
+	- People on her level
+		- Unknown
+		- Colvia
+		- Duchess
+		- Teld
+		- Unknown
+		- Coldseeker
+	- People also down with us
+		- Sienna
+		- Trisha
+		- Dania
+		- Others from Cliff's
+	- 

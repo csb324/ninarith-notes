@@ -1,7 +1,10 @@
 ---
 type: mystery
 tags:
-- mysteries
+  - mysteries
+aliases:
+  - Mysterious Circles
+  - Eye of the Everpresent
 ---
 
 # Freya's Mysterious Circles

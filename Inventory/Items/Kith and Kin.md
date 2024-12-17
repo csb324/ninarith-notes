@@ -41,7 +41,7 @@ We are reading the book, what should we be factoring in to point towards the rem
 Have we identified the last family of clues or is it unknown?
 * We have, and it's one of the categories we've identified but not one we've solved
 ### Other Clues
-* There are two more substantials clues, that are discrete and singular, after we figure out the dots above letters thing - and one more family of clues
+* There are two more substantial clues, that are discrete and singular, after we figure out the dots above letters thing - and one more family of clues
 * We have hit all the large Families of clues 
 ### Questions
 0
@@ -53,7 +53,7 @@ Have we identified the last family of clues or is it unknown?
 	* [[The Scattered Bar]] run by [[Evlyn]]
 * Culwen
 	* Leadership of the [[Wayfinders]] is in league with the undead
-		* [[Superior Desinfever]]? (Page 116)
+		* [[Superior Desindever]]? (Page 116)
 			* "He held out a hand to Vex. "I don't believe we were properly introduced last night. Culwen. A pleasure to meet you." 
 				* "SO like [[Superior Desinfever]] / Not across the board of course"
 	* There’s a ring like fracture that controls the undead

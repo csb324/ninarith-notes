@@ -8,10 +8,17 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### Immediate
-* reply to [[Pruvki Forgaveat]] and stop his panicking re: experimental undead
+* Go to [[AVAD]] and talk to [[Costi's mom|Sonia Grosu]]
+	* warn her about bugs
+	* ask about the thieves cant in the message from [[Costi's Dad|Vladimir Grosu]] (except we only know OOC)
+* Dinner with [[Lieutenant Stradvarth Coldseeker]]
+* Drinks with [[Colvia Ghul]]
+* Prep for 
 
 ### Short-Term
-
+In [[New Fairhaven]]
+* Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
+* Seek the [[Alhoon]] 
 
 ### Middle-Term
 * scries
@@ -23,11 +30,13 @@ tags:
 	* [[Starstool Daygrip]]
 	* [[The Burning Sons]] 
 	* [[Captain Fretze|Fretze]]
+	* [[Adrienne's Family]] 
+	* [[Rawley]] 
+	* [[Petra]] 
 	* [[Niko]] / [[Giary]]
 * legends lore
 	* [[Weirefesteria]] bark with [[Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
-	* 
 * Meet ups in [[Jezeten]]
 	* [[Colvia Ghul]]
 	* sounds like maybe [[Grishomec Teld|Major Teld]]

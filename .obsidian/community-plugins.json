@@ -1,9 +1,9 @@
 [
   "dataview",
   "templater-obsidian",
-  "breadcrumbs",
   "obsidian-checklist-plugin",
   "obsidian-codemirror-options",
   "customjs",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-metatable"
 ]

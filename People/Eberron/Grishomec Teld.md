@@ -5,6 +5,7 @@ tags:
 aliases:
   - Major Teld
   - Gray Fur
+  - Colonel Teld
 ---
 ​
 # Grishomec Teld

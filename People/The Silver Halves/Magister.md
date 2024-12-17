@@ -4,7 +4,7 @@ tags:
 - npc
 ---
 
-f# Magister Drake Zedarian
+# Magister Drake Zedarian
 [Status::alive]
 [Race::warforged]
 [Relationship::neutral]

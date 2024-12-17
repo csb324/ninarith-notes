@@ -10,7 +10,8 @@ tags:
 [Relationship::neutral]
 [Home::[[Dharinov Duchy]]]
 
-Duchess of the [[Dharinov Duchy]]. Date of Suspected Undeath: 3437
+Duchess of the [[Dharinov Duchy]]. Date of Suspected Undeath: 3437.
+Slender, looks ~40, exceedingly pale, long dark hair pulled behind head, sharp features, pronounced beauty mark high on cheek bone, deep plunging dress down to naval, no tits.
 
 ### Costi Research
 
