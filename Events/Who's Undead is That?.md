@@ -12,17 +12,16 @@ aliases:
 [Related to:: [[A Murder of Dukes]]]
 
 ### What We've Been Told
-About 6 months ago they complained that undead have been spotted along the southern border of [[Turian Waste]]. They allege [[Eberron]] has been sending them intentionally to do damage and harm, but [[Eberron]] claims they did not send them. [[Sienna Burbank|Sienna]] has been trying a diplomatic approach but believes the attack on the ship was an escalation and response to her work. A second, related attack, seems to have happened near where our ship crashed. Some [[Arkhosia]] [[Listeners Party]] members were found there, which would be a worrying sign of increases in tension, though maybe some are acting on their own, or even members of the [[Fire Raisers]].
+About 6 months ago [[Gu’athrithen]] complained that undead have been spotted along the southern border of [[Turian Waste]]. They allege [[Eberron]] has been sending them intentionally to do damage and harm, but [[Eberron]] claims they did not send them. 
 
-However, [[Gu’athrithen]] has proven that there have been some powerful undead. While they're not sanctioned from the [[Eberronian Military]] they might be unlicensed practitioners. While typically they would send the [[Bone Breakers]], they're otherwise obligated, so they're asking [[The Unforged Few|Our Party]] instead. 
+[[Gu’athrithen]] has proven that there have been some powerful undead. While they're not sanctioned from the [[Eberronian Military]] they might be unlicensed practitioners from [[Eberron]]. While typically they would send the [[Bone Breakers]], they're otherwise obligated, so they're asking [[The Unforged Few|Our Party]] instead. 
 
-The reports say undead have been spotted primarily in the [[Turian Waste]], beginning closer to the [[Eberron]] border, but is spreading. The draconics of [[Gu’athrithen]] need resolution, and assurance it's not coming from [[Eberron]] - they're worried about war breaking out. [[Deregheir]] has been acting as a facilitator of the conversations. They've been unsuccessful negotiating now, but they hope they'll be an ally. Relations have been strained historically - it's unclear if they'll be helpful should war breaks out.
+The reports say undead have been spotted primarily in the [[Turian Waste]], beginning closer to the [[Eberron]] border, but is spreading. The draconics of [[Gu’athrithen]] need resolution, and assurance it's not coming from [[Eberron]] - they're worried about war breaking out. [[Deregheir]] has been acting as a facilitator of the conversations. They've been unsuccessful negotiating now, but [[Eberron]] hopes they'll be an ally. Relations have been strained historically - it's unclear if they'll be helpful should war breaks out.
 
-They'll make us a dossier once the information is reviewed, and they think our starting point would be going to where the last undead were found. They understand if we want to take a few days first, specifically to see [[Costi's mom]] and sister.
+### Our Job
+Our starting point would be going to where the last undead were found. If we can track down the necromantic activity source, and stop it - ideally finding proof that it is not intentionally coming from [[Eberron]]. "We can kill whoever we need to kill", and [[Adrienne Spout|Adrienne]] asks for that in writing lol. 
 
-If we can track down the necromantic activity source, and stop it - ideally finding proof that it is not intentionally coming from [[Eberron]]. "We can kill whoever we need to kill", and [[Adrienne Spout|Adrienne]] asks for that in writing. She then negotiates our payment some, [[Trisha]] and [[Colvia Ghul]] say they'll see to our supplies, as [[Colvia Ghul]] has spent a good deal of time there. They'll get us to the border and supply us with horses. 
-
-Before we can move on [[Duchess v'Dharinov]]: the conflict in the [[Turian Waste]] needs to be resolved.
+[[Jehneim Bastienev]], [[Sienna Burbank|Sienna]], and [[Colvia Ghul]] plan to make [[The Unforged Few|Our Party]] a dossier once the information is reviewed and approved. [[Trisha]] and [[Colvia Ghul]] will see to our supplies, as [[Colvia Ghul]] has spent a good deal of time in the [[Turian Waste]]. They'll get us to the border and supply us with horses too. 
 
 ### What's it mean to us?
 * Seems like it ties into [[Wait There's a Lot of Undead]] and the [[Freya's Mysterious Circles|Eye of the Everpresent]] 
@@ -34,10 +33,13 @@ Before we can move on [[Duchess v'Dharinov]]: the conflict in the [[Turian Waste
 	* Has spent the last month in [[Deregheir]] but doesn't seem to be genuinely trying to get them involved, which [[Rez]] encourages. 
 	* She gives [[Costi]] a scroll of teleport circle and shows him their circle so we can get back quickly if needed. 
 	* She intentionally allowed the diplomacy to fail between [[Eberron]] and [[Gu’athrithen]], and intentionally brought a very expensive airship here. War fermenting there is an excellent excuse to position more [[Eberronian Second Division]] troops into [[Jezeten]] - but it shouldn't progress into full war. However, we should do what we can to actually solve the tension. 
+	* Cover story for the [[Orzudan Prisoner Breakout]]:
+		* [[Sienna Burbank|Sienna]] has been trying a diplomatic approach but believes the attack on the ship was an escalation and response to her work. 
+		* A second, related attack, seems to have happened near where our ship crashed. Some [[Arkhosia]] [[Listeners Party]] members were found there, which would be a worrying sign of increases in tension, though maybe some are acting on their own, or even members of the [[Fire Raisers]].
 
 ### Baddies (we can only assume)
 * [[Colvia Ghul]]
-	* Apparently has spent a lot of time in [[Turian Waste]] 
+	* Apparently has spent a lot of time in [[Turian Waste]]. Why??
 
 ### Other Players
 * [[Gu’athrithen]]
