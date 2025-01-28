@@ -5,6 +5,7 @@ tags:
 aliases:
   - Cost-ape
   - Constantine
+  - Sti Sti
 ---
 
 # Costi Grosu

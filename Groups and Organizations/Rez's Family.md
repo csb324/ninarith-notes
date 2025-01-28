@@ -26,6 +26,9 @@ Living in [[Thelran Asari]], trying to track down [[Pleetos Alentas]]
 ## [[Nehushta]]
 Recently murdered in [[Durmask]]. Zmaj is looking into it.
 
+## [[Lee]] 
+Lives in [[Deregheir]]
+
 ### NPCs
 ```dataviewjs
 const { DisplayHelpers } = customJS; DisplayHelpers.listAffiliations(dv);
