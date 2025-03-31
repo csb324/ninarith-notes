@@ -11,8 +11,6 @@ type: world-event
 	* [[Magister]] told us about [[The Silver Hand]], an organization that was led by a woman named [[Opal (silver hand)|Opal]] 
 * [[Costi's Dad|Vladimir Grosu]]
 	* The [[Beating Heart Battalion]], which [[Hugh]] was in (and presumably [[Costi's Dad|Vladdy Daddy]] was also in) was a specifically non-undead military unit
-* [[Southern Cities Increase Tension]]
-	* #helpmechelsea remind me why this is relevant to undead!
 * [[Jalantar Sunspot]]: There was a stone summoning ghosts to the basement.
 * [[Mysterious Circles]] 
 	* OOC
@@ -47,6 +45,7 @@ type: world-event
 	* Goblins were being kept half-alive in some sort of necromantic ritual
 * [[Winifey]]
 	* Had [[Freya's Mysterious Circles]] carved on her back 
+* [[Lance Corporal Jalvena Kharim]], [[Burston Courtev]], and [[Salid]] created a monstrosity that expanded the known-scope of necromancy in the flesh-stitched behemoths. Seems like even after [[Getting Freaky in Viliki]], they've moved to "a new benefactor" and are continuing work, in conjunction with [[Eberronian First Division]]. 
 
 
 ### Who's Doing This?

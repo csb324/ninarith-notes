@@ -5,8 +5,8 @@ tags:
 ---
 # Ring of Undead Masses
 
-[Owned by::[[Freya]]]
-[Origin::[[Burston Courtev]]
+[Owned by::[[Rez]]]
+[Origin::[[Burston Courtev]]]
 [Attunement:: yes]
 [Cursed:: yes]
 

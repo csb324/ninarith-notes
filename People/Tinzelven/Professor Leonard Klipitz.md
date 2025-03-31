@@ -34,6 +34,8 @@ Ionized Leather Sack: describes it as helpful in transplanar travel
 
 Plane of Earth Auto-mine
 
+Earth plane diamond energy magnifier
+
 ### Who're They to Us?
 
 Gave [[Rez]] Riddle-machine

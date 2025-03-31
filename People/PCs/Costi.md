@@ -6,6 +6,7 @@ aliases:
   - Cost-ape
   - Constantine
   - Sti Sti
+  - Constantine Grosu
 ---
 
 # Costi Grosu
