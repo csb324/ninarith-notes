@@ -15,8 +15,8 @@ Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
 ## Potions:
 Healing:
 	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - 1, and 1 per person, used: [[Freya]], [[Rez]] 
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]]
+	Superior healing (900) - 1 per person, used: [[Freya]], [[Rez]] 
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], and 1 by [[Rez]]
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
@@ -173,6 +173,10 @@ Carried by [[Costi]]
 
 [[tuning fork to the elemental plane of water]]. 
 Carried by [[Hugh|Finn]] 
+
+[[necromantic spikes]] (inert) - 8
+oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby
+Carried by [[Rez]]
 ## Monster Parts
 
 ### Dragon Scales

@@ -7,7 +7,7 @@ prev:
 Name:
 ---
 
-# Detailed Notes: Session 142
+# Detailed Notes: Session 143
 
 We debate how to handle the soul jars. 
 
@@ -27,7 +27,7 @@ We decide to chuck the water elementals soul jar at the statue, what can go wron
 
 We sneak in to the room, looking at how to take it apart. [[Rez]] and [[Costi]] pry out some of the largest sapphires, getting 4 large sapphires, and pry off the wings (make it a lizard), that we strap onto [[Freya]]'s back. Each has about 40 sapphires. 
 
-[[Costi]] takes a potion of darkvision, and casts an arcane eye to try and see which way to go. 7
+[[Costi]] takes a potion of darkvision, and casts an arcane eye to try and see which way to go. 
 
 The eye first notes that there is a barricade to the entrance of dining hall 1. It is a bone white door, with an oversized skull embedded into the door, with black metal helm on it. It seems like it's perhaps sleeping? Continuing along the mining chamber, the door to the dining hall 2 has 2 skulls: one wearing a golden crown, the other coated in a silk hood, they're muttering to each other in something other than common. [[Costi]] mimics their mouths, [[Bek]] can identify it as an ancient goblin dialect. He says they're arguing about who used the last of the bone dust. [[Hugh|Finn]] recalls it is a common spell component in necromancy. They argue as though they're petty roommates. 
 
@@ -39,7 +39,7 @@ When we say we'll go talk to other door, they start to panic and lie: he's racis
 
 We try to open the door of the sleeping head, but it immediately wakes and tries to bite [[Freya]]. Turns out he loves riddles. We swap a few, [[Rez]] shows off [[Rez's Riddle Machine]]. He loves it enough to let us in in exchange for it. [[Rez]] agrees, but says instead of leaving it with him, she'll give it to him in person. We ask how to tell the other version of himself of our encounter, he says "the General" commanded it. Pushed for more information, proof of our conversations, he said to mention [[Amarylis]] -- who they will never forget, their first kill. 
 
-Entering into the dining room, a horrific site of 40 corpses pinned to the wall, arms out, legs dangling, skin flayed but pinned back to the walls. In 32, the central cavity reveals their bones have been removed. In the other 8, there are some bones, but more noticeably, there's a spike in the center of their chest. 3 in particular with spikes catch our eye as they squirm out of their body, horribly broken and malformed. There's powerful arcane energy around these spikes. All 8 are different materials: oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby. The githyarti, ruby, and silver alloy are the three currently growing skeletons. They are quickly growing skeletons, the ruby perhaps most accurately, though very malformed still. As it forms, we first see horror, then rage, before breaking. Inside the center of the ruby stake, see a very very thin purple core, tied to dunamancy. 
+Entering into the dining room, a horrific site of 40 corpses pinned to the wall, arms out, legs dangling, skin flayed but pinned back to the walls. In 32, the central cavity reveals their bones have been removed. In the other 8, still no bones, but more noticeably, there's a spike in the center of their chest. 3 in particular with spikes catch our eye as they squirm out of their body, horribly broken and malformed. There's powerful arcane energy around these spikes. All 8 are different materials: oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby. The githyarti, ruby, and silver alloy are the three currently growing skeletons. They are quickly growing skeletons, the ruby most accurately and quickly, though very malformed still. As it forms, we first see horror, then rage, before breaking. Inside the center of the ruby stake, see a very very thin purple core, tied to dunamancy. 
 
 It's different, but reminds us of the undead creatures channeling magic in the [[Duvey Crypt]]. 
 
