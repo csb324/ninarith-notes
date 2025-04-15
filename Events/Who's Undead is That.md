@@ -11,6 +11,8 @@ aliases:
 [Affiliation::[[Eberronian Second Division]]]
 [Related to:: [[A Murder of Dukes]]]
 
+Ok I’m not saying it was Rez’s mom’s FAULT but she was definitely INVOLVED. - Clara 
+
 ### What We've Been Told
 About 6 months ago [[Gu’athrithen]] complained that undead have been spotted along the southern border of [[Turian Waste]]. They allege [[Eberron]] has been sending them intentionally to do damage and harm, but [[Eberron]] claims they did not send them. 
 

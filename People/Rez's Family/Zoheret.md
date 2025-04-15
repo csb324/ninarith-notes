@@ -8,14 +8,14 @@ aliases:
 
 
 # Zoheret (AKA Zoha)
-[Status::alive]
+[Status::dead]
 [Relationship::neutral]
 [Affiliation:: [[Rez's Family]]]
 [Affiliation:: [[Bahamut]]]
 [Pronouns:: She/Her]
 
 ### Background
-[[Rez]] and [[Vask]]'s sister
+[[Rez]] and [[Vask]]'s sister. Killed trying to confront [[Bhula Orbnose]] after [[Nehushta|Neti]]’s death. 
 
 ### Who're They to Us?
-In [[Durmask]] after the death of [[Nehushta|Neti]]
+In [[Durmask]] after the death of [[Nehushta|Neti]] 
