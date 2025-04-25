@@ -14,4 +14,4 @@ aliases:
 [Affiliation:: [[Bahamut]]]
 [Pronouns:: He/Him]
 
-[[Rez]]'s brother. Gold Dragon. King of [[Deregheir]]
+[[Rez]]'s brother. Gold Dragon. King of [[Deregheir]] under the current alias of [[Li|Casimir]]
