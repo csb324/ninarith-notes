@@ -58,7 +58,7 @@ In [[Thelran Asari]]
 	* [[Wyn Elreal]] - one success - one success
 	* [[Bhula Orbnose]]
 * legends lore
-	* [[Weirefesteria]] bark with [[Mysterious Circles]]
+	* [[Weirefesteria]] bark with [[Freya's Mysterious Circles |Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
 * sendings
 	* costis friend marius
