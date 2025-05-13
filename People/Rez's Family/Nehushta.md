@@ -6,7 +6,7 @@ aliases:
 - Neti
 ---
 
-# Nehushta Tanin
+# Nehushta Tanin (AKA Neti)
 [Status::dead]
 [Race::Human]
 [Relationship::neutral]

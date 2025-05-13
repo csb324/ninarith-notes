@@ -10,8 +10,7 @@ tags:
 # Adrienne
 
 [Race::Half-Elf]
-[Status::dead]
-
+[Status::alive]
 [Born::[[Ru'Nileth]]]
 [Alma Mater::[[Redscale]]]
 [Affiliation::[[The Unforged Few]]]

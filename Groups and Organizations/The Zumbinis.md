@@ -17,13 +17,13 @@ const { DisplayHelpers } = customJS; DisplayHelpers.listAffiliations(dv);
 ```
 
 ## Members:
-* Aedara Aelinar
+* [[Aedara Alinar]]
 * Lorarora Silentread
-* Azir
+* [[Azir DarAxia]]
 * [[Stalwart Mudd]]
-* Kaycee Penelope Teapetal
-* Yllira, Arbiter of Torm
-* Gemma Steelbane
+* [[Kaycee Teapetal]]
+* Yllyra, Arbiter of [[Torm]]
+* [[Gemma]] Steelbane
 * Aemon
 * [[Lillith Redscale]]
 * Leah

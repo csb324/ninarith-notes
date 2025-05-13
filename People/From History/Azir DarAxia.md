@@ -1,9 +1,10 @@
 ---
 type: npc
-tags: 
-- npc
+tags:
+  - npc
 aliases:
-- Saint Goldborn
+  - Saint Goldborn
+  - Rez's Dad
 ---
 
 # Azir DarAxia (A.K.A. Saint Goldborn)
@@ -14,6 +15,7 @@ aliases:
 [Affiliation::[[The Zumbinis]]]
 [Affiliation::[[Order of the Platinum Dragon]]
 [Affiliation:: [[Bahamut]]]
+[Affiliation:: [[Rez's Family]]]
 
 Azir was a hero of the [[The Three Dragons War]], who helped defeat [[Tiamat]]. He is now also known as a Saint Goldborn of the [[Order of the Platinum Dragon]]
 

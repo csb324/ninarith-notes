@@ -1,15 +1,16 @@
 <%* const { Campaign } = window.customJS;
 let title = tp.file.title;
 let number = 0;
-if(tp.file.title !== 'Untitled') {
+if(tp.file.title.substring(0, 8) !== 'Untitled') {
 	number = title.split('-')[1]
 } else {
-	number = Campaign.getLatestSession() + 1;
+	number = await tp.system.prompt("Enter Session number");
 	title = "session-" + number;
 }
-	console.log(title);
+number = parseInt(number);
+console.log(title);
 
-const folder = 'Session Recaps'
+const folder = 'Session Recaps';
 
 await tp.file.move(`${folder}/${title}`);
 -%>

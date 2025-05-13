@@ -1,24 +1,41 @@
 # Group Inventory
 
-### Currency - 7,651
+### Currency - 2250 pp and 3000 gp
+##### Gems:
+Pearl
+Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
+diamond ring - 3's revivify's worth (900gp worth)
+diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
+diamonds - 900gp worth
+Topaz  ([[Rez]])
+Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
+4 large sapphires
+2 wings, each has about 40 sapphires
+Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2700gp
 
 ## Potions:
-
 Healing:
-	Superior healing (900) - 2  by [[Rez]] 1 by [[Hugh]] 1 by [[Freya]] 1 by [[Adrienne Spout|Adrienne]]
-	Greater healing (400) - 1
+	Supreme (6000?) - 1, carried by [[Freya]]
+	Superior healing (900) - [[Costi]], [[Adrienne Spout|Adrienne]] 
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], and 1 by [[Rez]]
 	Regular healing (200) - 
-Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
-Potion of Darkvision - 4
-Potion of Necrotic Resistance - 1 
-Aid - 2 (Hugh)
-
+	? - [[Adrienne Spout|Adrienne]]
+Potion of Darkvision - 1
+Potion of Necrotic Resistance - 2 ([[Hugh|Finn]])
+Aid - 1 ([[Hugh]])
+Lightning Resistance - 2 ([[Hugh|Finn]], [[Rez]])
+Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
 ## Scrolls:
-
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
-Feather Fall [[Costi]]
-Clairvoyance
+Counterspell [[Adrienne Spout|Adrienne]]
+Feather Fall - 1, [[Costi]]
+[[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
+[[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
+Gravity Sinkhole [[Costi]]
+
+### Spell Materials
+Parchment - 5 spell levels ([[Costi]])
 
 ## Magic Items:
 
@@ -87,8 +104,8 @@ Githyanki Stone Tablet
 [[Greater Ring of Protection]]: +1 AC, +1 Saves (A)
 Carried by [[Hugh]]
 
-[[Ring of Telekinesis]]: Cast at will, only target object not worn or carried. When cast, move up to 1000 lbs, 30 ft in any direction not beyond 60. Can throw or exert fine control. (A)
-[[Costi]]
+[[Ring of Telekinesis]]: Cast at will, only target object not worn or carried. When cast, move up to 1000 lbs, 30 ft in any direction not beyond 60. Can throw or exert fine control. 15 SVT for rock throwing (A)
+[[Rez]]
 
 [[Cloak of the Manta Ray]]: breathe underwater, swimming of 60ft (A)
 [[Hugh]]
@@ -139,19 +156,38 @@ Hats of Disguise (5) (A)
 
 Kuo-Toa staffs - 1
 
-Glowy-green sorta undead making cylinders - 3
+[[Glowy-green sorta undead making cylinders]] - 3
 
+magical longsword
+
+warforged bracer
+
+[[Shadowform Shield]] 
+Carried by [[Freya]]
+
+[[Ring of Amity]]
+Carried by [[Hugh|Finn]]
+
+[[Curator porcelain pin]]
+Carried by [[Costi]]
+
+[[tuning fork to the elemental plane of water]]. 
+Carried by [[Hugh|Finn]] 
+
+Ruby and Obsidian Spike ([[Zhakastin Expedition]])
+Carried by [[Freya]]
+
+[[Wolfskull Sage's Ring]]
+Sage's signet: while wearing (a) must be able to cast spells, can casts augury 1 per day and cast two additional spells 1 per day: freedom of movement and pass without a trace
+Carried by [[Adrienne Spout|Adrienne]]
 ## Monster Parts
 
 ### Dragon Scales
 Carried by [[Freya]]
 	Blue - 8
 	Red - 9
-
 Medusa snakes -5
-
 Medusa eyes - 2
-
 Bullette plates - 3
 
 ## Mundane Items: 
@@ -162,16 +198,37 @@ vials of black ooze - 6
 
 black tipped crossbow bolts - 20
 
-### Costi Spell Materials
-Parchment - 5 spell levels
+[[Vlad Grosu Patch]]
 
-### Gems:
-Includes:
-	Pearl
-	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	diamond ring - 3's revivify's worth (900gp worth)
-	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
+Lead Box
+Carried by [[Hugh]]
 
+Disguise kit
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Sqwank]]'s [[Wayfinders]] dog tag
+Carried by [[Freya]]
+
+Lanterns - 5
+
+Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
+
+Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
+
+[[Xcanthak]] coins of favor - 5 (one per person in [[The Unforged Few|Our Party]], though [[Costi]] gave his to [[Rhynilex Svenik|Rhyn]])
+
+Broken half of a ruby
+Carried by [[Rez]]
+
+[[necromantic spikes]] (inert) - 8
+glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby, silver
+oak, birch, iron - given to [[Jehneim Bastienev]]
+Carried by [[Rez]]
+
+[[Zormvrik]]'s
+A gold crown
+black metal helmet with a scar over the right eye
+gray silk shawl
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
@@ -196,8 +253,10 @@ Includes:
 [[Kith and Kin]] - Carried by [[Freya]] 
 Letter of introduction from [[The Matron]] of [[Izdeke]]
 Letter to Hugh from [[Charky]]
+Correspondence from [[Johviteo Bachekdem]] - carried by [[Adrienne Spout|Adrienne]]
+### Rez
 
-### Bag of Mischief:
+##### Bag of Mischief:
 carried by [[Rez]]
 	[[Immovable Rod]]
 	Nets - 10
@@ -218,29 +277,21 @@ carried by [[Rez]]
     box of rusty screw
     a small heart pillow embroidered with "sorry"
 
-[[Vlad Grosu Patch]]
-
-Lead Box
-Carried by [[Hugh]]
-
-Disguise kit
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Sqwank]]'s [[Wayfinders]] dog tag
-Carried by [[Freya]]
-
-Lanterns - 5
-
-Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
-
-Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
+##### Personal
+- Diamond cream - eighth of an ounce
+	- diamond cream with magical properties is a very expensive, specialty item. You'd have to order that special from an enchanter, but no one has any suggestions.
+- chunks of copper ore - 4
+- Scroll of Silence
+- Scroll of Detect Thoughts
+- Mithril mix alloy from Dragon Scales Ahhh
+- Necklace of brass dragonscales, assuming from Neti
+- [[Curator Bell]]
+- Sliver of the silver alloy [[necromantic spikes]]
 
 ### Clothes
 One formal outfit each
 A generic uniform each
 Plain clothes each
-
-[[Xcanthak]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
 
 ## Given to Others
 

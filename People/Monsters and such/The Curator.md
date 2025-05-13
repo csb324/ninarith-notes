@@ -30,7 +30,7 @@ We've run afoul of someone they have a terse relationship with [[Threthdia Scriv
 
 Gave [[Freya]] the [[Curator Quills]], in exchange for her blood while in their various rage-shapes. 
 
-Looking into [[Freya]]'s [[Mysterious Circles]] symbol
+Looking into [[Freya]]'s [[Freya's Mysterious Circles |Mysterious Circles]] symbol
 
 ## The Contract
 I, \_\_\_\_\_, am excited to join the Collection and do so willingly.
@@ -44,7 +44,13 @@ I, \_\_\_\_\_, am excited to join the Collection and do so willingly.
 * [[Jenson Davour]]?
 * [[Sienna Burbank]] (OOC, [[The Unforged Few|Our-Party]] doesn't know this, might not still be true)
 
-## Clues to Who They Really Are
+## Items
+[[Curator Bell]] - unused by [[Rez]]
+[[Curator Quills]] - used by [[Freya]]
+[[Curator Blue Marble]] - placed by [[Freya]]
+[[Curator porcelain pin]] - unused by [[Costi]]
+
+### Clues to Who They Really Are
 * Gives off desecrated vibes
 * Has the ability to be multiple places simultaneously?
 * [[The Raven Queen]] doesn't know who they are already

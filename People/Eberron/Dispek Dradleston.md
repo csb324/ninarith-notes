@@ -14,7 +14,7 @@ aliases:
 [Home:: [[Burbank Compound]]]
 [Title:: Lieutenant]
 [Affiliation:: [[Eberronian Military]]]
-[Affiliation:: [[Eberronian Seventh Brigade]]]
+[Affiliation:: [[Eberronian Seventh Battalion]]]
 [Affiliation:: [[Grishomec Teld]]]
 [Affiliation:: [[Thelran Asari Army]]]
 

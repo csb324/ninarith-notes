@@ -14,7 +14,7 @@ tags:
 [Affiliation:: [[Rez's Family]]]
 [Class:: Gunslinger]
 
-Copper hair, long blue overoat. Coppery scales on his face. 
+Copper hair, long blue overoat. Coppery scales on his face. Copper scales everywhere, because he's a copper dragon
 
 Carries a black onyx and obsidian gun. The hilt comes to almost a red ruby point. Can stab from the hilt, it shoots glass bullets that explode on impact. It's a family weapon from [[Victoria Several]], a blood pistol, NO ONE ELSE should touch it once he's stabbed himself with it. It's cursed, but only sometimes. He's maybe got something ~special~ building with Victoria. 
 

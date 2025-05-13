@@ -22,9 +22,9 @@ Suddenly, [[Rez Hires an Actor|a gnome with glasses and very bushy beard]] barge
 
 We've run afoul of someone she has a terse relationship with [[Threthdia Scrivit]]. Says her purposes are cross to hers, and would happy to lend us assistance. Recommends we act soon for our own best interest, that she doesn't take be slighted lightly. 
 
-Says she can diminsh some of [[Threthdia Scrivit]]'s capabilities if we give [[The Curator]] advance notice, and she can make [[Freya]] able to talk to her whenever she likes. Pricked between her shoulders, creates a small procelain mask, and says all you have to do is think their name and they can communicate. Recommends we let her feel secure before we fight her, that the [[The Beauties of Shadow]] can be a bit cocky, but they've likely filled their ranks. We should accept her dinner invitation. Called her Grandmother Renthendi. Thinks we should be careful about more banderhobbs - that they might try to leave with one of us if they believe they're losing a fight. 
+Says she can diminish some of [[Threthdia Scrivit]]'s capabilities if we give [[The Curator]] advance notice, and she can make [[Freya]] able to talk to her whenever she likes. Pricked between her shoulders, creates a small procelain mask, and says all you have to do is think their name and they can communicate. Recommends we let her feel secure before we fight her, that the [[The Beauties of Shadow]] can be a bit cocky, but they've likely filled their ranks. We should accept her dinner invitation. Called her [[Grandmother Renthendi]]. Thinks we should be careful about more banderhobbs - that they might try to leave with one of us if they believe they're losing a fight. 
 
-[[Freya]] also asked if she'd seen the symbol from her letter, and said she'd look into it.
+[[Freya]] also asked if she'd seen the symbol from her [[Freya's Mysterious Letter]], and said she'd look into it.
 
 She wakes up to tell us about it -- [[Adrienne Spout|Adrienne]] senses that the mark is desecrated. We talked about maybe being careful in the future with [[The Curator]].
 

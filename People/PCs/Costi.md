@@ -5,6 +5,8 @@ tags:
 aliases:
   - Cost-ape
   - Constantine
+  - Sti Sti
+  - Constantine Grosu
 ---
 
 # Costi Grosu
@@ -45,3 +47,6 @@ Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard
 * Steve, Marius Bora - [[session-26]]
 * Barny - [[session-44]]
 * Cost-ape - [[notes-52]]
+* Four fingers (because of how he drinks his gin)
+
+

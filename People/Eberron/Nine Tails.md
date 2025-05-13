@@ -10,7 +10,7 @@ tags:
 [Location:: [[Burbank Compound]]]
 [Home:: [[Burbank Compound]]]
 [Affiliation:: [[Eberronian Military]]]
-[Affiliation:: [[Eberronian Seventh Brigade]]]
+[Affiliation:: [[Eberronian Seventh Battalion]]]
 [Affiliation:: [[Grishomec Teld]]]
 
 A goblin in ragtag leathers carrying a cat of nine-tails
