@@ -3,6 +3,7 @@ type: item
 tags:
 - item
 ---
+# Raven's Edge
 [Owned by::[[Costi]]]
 Requires Attunement
 - +1 great sword

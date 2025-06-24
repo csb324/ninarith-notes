@@ -7,24 +7,20 @@ tags:
 # To-Do List
 [Owned by::[[The Unforged Few]]]
 
+ELA Countdown: 12hrs - 7 days
+Burbank Countdown: after 2 days - 36hrs - 13 days
+Thronestone Countdown: 3 days
+ELA Countdown: 12hrs - 7 days
+Burbank Countdown: after 2 days - 36hrs - 13 days
+Thronestone Countdown: 3 days
 ### Scheduled Events
-
+Meet with [[Duchess v'Dharinov]] 
 
 ### Immediate
-* Figure out how we answer [[Colvia Ghul]]
-	* Finn Divination "What we should NOT convey 
-	* Finn Commune 
-		* "Does the threat posed to bahamut, pelor, Corellon, and moradin also put ioun at risk?"
-		* Would Ioun care about the threat/efforts of those using the Eye of the Everpresent
-	* 
-* [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
 
 ### Short-Term
-* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
-	* [[Eirian]] dream?
-	* [[Hugh|Finn]] scry?
-	* [[Jalantar]] day trip?
+* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week [[Jalantar]] day trip?
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -55,8 +51,11 @@ In [[Thelran Asari]]
 	* [[Petra]] - one success
 	* [[Niko]] / [[Giary]]
 	* [[Willow]] 
-	* [[Wyn Elreal]] - one success - one success
+	* [[Wyn Elreal]] - two successes
 	* [[Bhula Orbnose]]
+	* [[Relakas]] -  one success / one fail
+	* [[Tyros]]
+	* [[Terrav]]
 * legends lore
 	* [[Weirefesteria]] bark with [[Freya's Mysterious Circles |Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]

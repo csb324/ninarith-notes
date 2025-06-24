@@ -9,8 +9,9 @@ tags:
 [Race::human]
 [Relationship::neutral]
 [Affiliation:: [[Galaphanel]]]
-[Workplace::[[The Academy in Thelran Asari]]
+[Workplace::[[The Academy in Thelran Asari]]]
 [Affiliation:: [[Unscaled]]]
+[Affiliation::[[Boulder Makers]]]
 [Home:: [[Thelran Asari]]]
 ### Physical Description
 - Half-elf
@@ -28,6 +29,7 @@ Recently left [[Jalantar]] via airship, after getting a bronze scale grafted. [[
 
 We also try [[Pleetos Alentas]], he's sitting in a garden, but [[Hugh|Finn]] doesn't recognize the flora, it's not tropical or [[Eberron]] or [[Dilandil]] -- when described to us it sounds like the [[Narathian Plains]] He's writing a letter, he can't see it all, but it seems as though he's writing orders, and sees it's addressed to [[Bhula Orbnose]], which [[Hugh|Finn]] believes to be a halfling name, and sees that they live in [[Durmask]], [[Hugh|Finn]] gets the street name and most of the number "X23 STREET NAME". He sends the letter at the end of the vision. 
 
+[[notes-148]]: [[Trisha]] is going to send someone she knows in [[Thelran Asari]] to search any property he might own.
 ### Who're They to Us?
 Worked with [[Burru Ilp]], [[Jorus]], and [[Sqwank]]
 
