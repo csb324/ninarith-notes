@@ -1,6 +1,6 @@
 # Group Inventory
 
-### Currency - 2250 pp and 1142 gp
+### Currency - 2250 pp and 1440 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
