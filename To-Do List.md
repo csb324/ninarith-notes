@@ -8,9 +8,8 @@ tags:
 [Owned by::[[The Unforged Few]]]
 
 ### Scheduled Events
-?
 Marius and Marius - answer about bombs
-Arkoshia 
+Arkoshia / Dania date
 	Henrik
 	Father Thronestone
 	Halls of the Dead? 
