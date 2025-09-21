@@ -8,10 +8,10 @@ aliases:
 ---
 
 # Devkorus Kaa
-[Status::alive]
+[Status::dead]
 [Race::Halfing]
 [Relationship::friend]
 [Home::[[Golstrava]]]
 [Affiliation::[[ELA]]]
 
-Some quick description
+He was a bit bloodthirsty. Leader of the [[ELA]] at [[Golstrava]]. Killed in the raid, but not before giving us the [[ELA Ebony Stake]]. 

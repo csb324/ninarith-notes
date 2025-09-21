@@ -11,5 +11,6 @@ aliases:
 [Race::Human]
 [Relationship::enemy]
 [Home::[[Jezeten]]]
+[Status:: Dead]
 
 Chamberlain of [[Duchess v'Dharinov]], Undead

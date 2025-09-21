@@ -1,7 +1,9 @@
 ---
 type: PC
 tags:
-- PC
+  - PC
+aliases:
+  - Womanifestation of the Planes
 ---
 
 # Freya Polaris
