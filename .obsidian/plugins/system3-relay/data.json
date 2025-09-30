@@ -6,7 +6,79 @@
     {
       "path": "Session Notes",
       "guid": "9f5b716e-6c36-4515-9e8d-3d0e84a9a51f",
-      "relay": "4842ea2b-3c46-4d94-9946-83ce5f764dd0",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Events",
+      "guid": "06a9a61a-b46c-4938-ac61-4c45cb96f064",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Groups and Organizations",
+      "guid": "991523e8-6d84-4af3-9878-6c4679cfe96a",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Locations",
+      "guid": "bc360243-3cb3-4c38-83bb-d0c2aea050d9",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "People",
+      "guid": "c0ea1e5d-8a56-498e-8d30-a6f2df39fd92",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Templates",
+      "guid": "9874b131-a981-4eb4-bd46-da9e8eeca6f9",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Inventory",
+      "guid": "5014a484-d1d4-465c-8feb-21d11a8bea6b",
+      "relay": "cade5ba8-ce89-4a95-9479-f2efdb18bcd0",
       "sync": {
         "images": true,
         "audio": true,
