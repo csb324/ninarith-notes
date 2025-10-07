@@ -1,5 +1,14 @@
+---
+type: npc
+tags: 
+- npc
+---
 
 # Samson
+[Status::alive]
+[Race::Other]
+[Relationship::friend]
+[Home::[[Home]]]
 
 An Aasimar, half-deva or planatar, and she didn't know they were still on the prime material. He's arrived with his family, and an elephantine named [[Ferdinand]]. 
 
