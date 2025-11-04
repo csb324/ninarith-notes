@@ -9,10 +9,6 @@ tags:
 ### Immediate
 
 Tonight:
-* 
-
-Tomorrow:
-* Gods trips? 
 * Going out with [[Eirian]] 
 * [[Freya]] and [[Samson]] bath tub drinks
 

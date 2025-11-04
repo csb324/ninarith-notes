@@ -5,6 +5,8 @@ tags:
 aliases:
   - Igolide
   - Casimir
+  - Goldilocks
+  - Goldy
 ---
 
 # Li (AKA Igolide AKA Casimir)

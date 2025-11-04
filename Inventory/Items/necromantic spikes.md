@@ -9,7 +9,7 @@ tags:
 [Origin:: [[Zhakastin Expedition]]]
 [Status:: Inert]
 [Affiliation:: [[Wait There's a Lot of Undead]]]
-[Affiliation:: [[Who's Undead is That]]]
+[Affiliation:: [[Whose Undead is That]]]
 [Affiliation:: [[Morthos]]] (we assume)
 
 Within the [[Zhakastin Expedition]]. A horrific site of 40 corpses pinned to the wall, arms out, legs dangling, skin flayed but pinned back to the walls. In 32, the central cavity reveals their bones have been removed. In the other 8, still no bones, but more noticeably, there's a spike in the center of their chest. 3 in particular with spikes catch our eye as they squirm out of their body, horribly broken and malformed. 

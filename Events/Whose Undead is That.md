@@ -6,12 +6,12 @@ location: "[[Turian Waste]]"
 aliases:
   - Conflict Brewing Between Eberron and Gu'athrithen
 ---
-# Who's Undead is That?
+# Whose Undead is That?
 [Affiliation::[[Eberronian Military]]]
 [Affiliation::[[Eberronian Second Division]]]
 [Related to:: [[A Murder of Dukes]]]
 
-Ok I’m not saying it was Rez’s mom’s FAULT but she was definitely INVOLVED. - Clara 
+> Ok I’m not saying it was Rez’s mom’s FAULT but she was definitely INVOLVED. - Clara 
 
 ### What We've Been Told
 About 6 months ago [[Gu’athrithen]] complained that undead have been spotted along the southern border of [[Turian Waste]]. They allege [[Eberron]] has been sending them intentionally to do damage and harm, but [[Eberron]] claims they did not send them. 
@@ -24,11 +24,6 @@ The reports say undead have been spotted primarily in the [[Turian Waste]], begi
 Our starting point would be going to where the last undead were found. If we can track down the necromantic activity source, and stop it - ideally finding proof that it is not intentionally coming from [[Eberron]]. "We can kill whoever we need to kill", and [[Adrienne Spout|Adrienne]] asks for that in writing lol. 
 
 [[Jehneim Bastienev]], [[Sienna Burbank|Sienna]], and [[Colvia Ghul]] plan to make [[The Unforged Few|Our Party]] a dossier once the information is reviewed and approved. [[Trisha]] and [[Colvia Ghul]] will see to our supplies, as [[Colvia Ghul]] has spent a good deal of time in the [[Turian Waste]]. They'll get us to the border and supply us with horses too. 
-
-We're heading to the [[Gu’athrithen]] mine, [[Zhakastin Expedition]] about 35 miles north of the border, where the unexplained mass casualty event took place. 
-
-### What We Find Out
-A group of undead, believed to be fifty or sixty at least, were lead by a very chatty (constant chattering, maybe seemed nuts) skeleton creatures with a shiny staff - did big magic. Killed everyone inside the [[Zhakastin Expedition]]. 
 
 ### What's it mean to us?
 * Seems like it ties into [[Wait There's a Lot of Undead]] and the [[Freya's Mysterious Circles|Eye of the Everpresent]] 
@@ -44,11 +39,12 @@ A group of undead, believed to be fifty or sixty at least, were lead by a very c
 	* Cover story for the [[Orzudan Prisoner Breakout]]:
 		* [[Sienna Burbank|Sienna]] has been trying a diplomatic approach but believes the attack on the ship was an escalation and response to her work. 
 		* A second, related attack, seems to have happened near where our ship crashed. Some [[Arkhosia]] [[Listeners Party]] members were found there, which would be a worrying sign of increases in tension, though maybe some are acting on their own, or even members of the [[Fire Raisers]].
-* He took a boat here from [[The Tendrils]] because he had to talk to [[No-Karo]]. [[The Burning Sons]] are pretty mad at us, but he doesn't think he's mad at us. He gives each of us a [[Pelor Token]] in case we ever need anything from him. [[Tanim]] is the [[Moradin]] oracle, he's "testy". [[Rhehned]] is the oracle for [[Bahamut]], an old blue dragonborn. These are the only gods he knows of with oracles. They all have watchers, different ones than his. 
 
 ### Baddies (we can only assume)
 * [[Colvia Ghul]]
 	* Apparently has spent a lot of time in [[Turian Waste]]. Why??
+* [[Kaycee Teapetal|Kaycee]]
+	* It turns out, has been opening portals to the shadowfell all over the place 
 
 ### Other Players
 * [[Gu’athrithen]]
@@ -56,3 +52,4 @@ A group of undead, believed to be fifty or sixty at least, were lead by a very c
 	* The blue draconics that attacked the [[People/Eberron/Burbanks|Burbanks]] airship were able to get some papers, schematics of some of the border facilities on the desk.
 * [[Deregheir]] 
 	* [[Lee]] is [[Rez]]'s brother and lives there. He said not to get involved, but when does [[Rez]] ever listen to him anyways?
+
