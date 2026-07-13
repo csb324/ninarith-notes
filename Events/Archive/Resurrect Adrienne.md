@@ -4,8 +4,9 @@ status: ended
 ---
 
 # Resurrect Adrienne
-[Status::Complete]
+[Status::Complete] as of [[notes-90]]
 
+Context: Adrienne died in [[the Feywild]], killed by a Hag. ([[notes-47]])
 ### The Ritual
 Requires a very very powerful spell, and it doesn't always work. It basically gives you one shot, and your chances are done. Only the most powerful people on the material plane can cast it.
 

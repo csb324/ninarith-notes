@@ -19,6 +19,7 @@ aliases:
 [Affiliation:: [[Julian Slater-Runehorn]]]
 [Affiliation:: [[Duchess v'Dharinov]]]
 [Affiliation:: [[Beating Heart Battalion]]]
+[Affiliation:: [[The Matron's Conspiracy]]]
 [Affiliation::[[Burbanks]]]
 
 Husband of [[Sienna Burbank]], he's an [[Eberronian Military]] colonel. 

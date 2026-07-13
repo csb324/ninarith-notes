@@ -11,7 +11,7 @@ tags:
 [Origin:: [[Costi's Dad|Vladdy Daddy]]]
 [Status:: Active]
 
-[[Costi]]'s sword from his father [[Costi's Dad|Vladimir Grosu]]. 
+[[Costi]]'s sword from his father [[Costi's Dad|Vladimir Grosu]]. Turned into by [[Raven's Edge]].
 
 In the [[Halls of the Dead]], it lightens even further with an almost feathery flash of black feathers up the blade. For a fraction of a second, the metal turns green, and he feels a pulsing energy that he hasn't felt before - it calls to him. The sword has an idea of itself [[Potential]], that is now +1 weapon. 
 
