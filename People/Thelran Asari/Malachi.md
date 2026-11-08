@@ -12,6 +12,8 @@ aliases:
 [Home::[[]]]
 [Affiliation::[[The Unforged Few]]]
 [Affiliation::[[Wayfinders]]]
+[Status::alive]
+[Affiliation::[[Loombrace Cenacle]]]
 [Class::]
 [Pronouns:: he/his]
 ## Physical Description
