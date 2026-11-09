@@ -49,6 +49,7 @@ Recon
 	- ~~cocktail hour before by [[Gulsindip Desindever|Superior Desindever]] at 6 pm~~
 	- reception by [[Rawley]] after at 9:30 pm
 		-  [[The Miscasts]] comes, and try to drug up [[Gulsindip Desindever|Superior Desindever]]
+		- [[Costi]] sneak into behind [[Gulsindip Desindever|Superior Desindever]] desk, [[Costi's Dad|Vladdy Daddy]] alter self? 
 
 24
 * Freya fighting pits Day 2
@@ -166,6 +167,7 @@ Chelsea:
 * Could we have converted [[Major Stradvarth Coldseeker]]?
 * Add page on our dice superstitions / rolling process to our book
 * would have pushing the blue sapphire in the seven copper opera have worked instead of kissing it? 
+* How could the everpresent know where the loombrace hidden saferoom is?
 
 #### Rez
 * sending Zmaj re: Nervart
